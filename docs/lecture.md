@@ -915,7 +915,7 @@ Population is grouped into:
 
 ---
 
-## 🔹 Addressing Labor Shortages: Solution 1 - Allowing Migrants to Enter the Country
+## Addressing Labor Shortages: Solution 1 - Allowing Migrants to Enter the Country
 
 ### Benefits:
 - **Quick & Easy Fix:** Migrants can immediately fill vacant jobs and help sustain production.
@@ -945,7 +945,7 @@ Population is grouped into:
 
 ---
 
-## 🔹 Addressing Labor Shortages: Solution 2 - Replacing Labor with Technology
+## Addressing Labor Shortages: Solution 2 - Replacing Labor with Technology
 
 ### Benefits:
 - **Cost-efficient in the long run**:
@@ -974,7 +974,7 @@ Population is grouped into:
 
 ---
 
-## 🔹 Addressing Labor Shortages: Solution 3 - Encourage Higher Birth Rate
+## Addressing Labor Shortages: Solution 3 - Encourage Higher Birth Rate
 
 ### Ideal Outcome:
 - Sustains economic independence with homegrown labor.
