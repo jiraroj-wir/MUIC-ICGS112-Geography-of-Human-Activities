@@ -1,0 +1,15 @@
+site_name: Geography Notes
+theme:
+  name: material
+  palette:
+    scheme: slate  # dark mode
+  features:
+    - navigation.instant
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+nav:
+  - Home: index.md
+  - Lecture Notes: lecture.md
+  - Exam Questions: questions.md
+
