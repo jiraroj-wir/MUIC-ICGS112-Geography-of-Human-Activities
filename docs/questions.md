@@ -1,6 +1,7 @@
 ## Which theory of human behavior is most effective and why?
 
 **Answer:**
+
 Choose one of these theories and explain:
 
 - Behaviorism — focuses on external conditioning and stimulus-response patterns
@@ -18,6 +19,7 @@ Use long-form reasoning and a relevant example.
 ## Explain the development of geographical study throughout history
 
 **Answer:**
+
 Cover all main stages:
 
 - Hunting and Gathering — spiritual explanations, early tools
@@ -55,6 +57,7 @@ Mention the purpose, tools, and societal context in each period.
 ## How is geography different from other study fields?
 
 **Answer:**
+
 Compare with:
 
 - History (uses timeline)
@@ -90,6 +93,7 @@ Mention how geography borrows methods from other fields but stays unique by focu
 ## Why do areas with the same environment sometimes develop differently?
 
 **Answer:**
+
 Mention that ecological perspective argues:
 
 - Same environment doesn't guarantee same character or development

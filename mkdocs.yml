@@ -1,6 +1,6 @@
-site_name: Geography Notes
+site_name: ICGS112 NOTES
 theme:
-  name: material
+  name: 
   palette:
     scheme: slate  # dark mode
   features:
