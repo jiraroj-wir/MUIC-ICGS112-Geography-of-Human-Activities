@@ -95,6 +95,7 @@ Mention that ecological perspective argues:
 - Same environment doesn't guarantee same character or development
 
 - Other influencing factors include:
+
   - Culture
   - Political system
   - Religion
@@ -114,6 +115,7 @@ Use examples like:
 - Choose any current incident (e.g., Myanmar conflict)
 
 - Mention impact on:
+
   - Thailand’s national security (weapons trade, refugees)
   - Physical geography (infrastructure change, population density)
 
@@ -198,6 +200,7 @@ Use examples like:
 **Answer:**
 
 - Must explain how it affects:
+
   - Production schedule
   - Customer satisfaction
   - Cost of production
@@ -429,10 +432,12 @@ Use examples like:
 **Answer:**
 
 - Urban: 
+
   - Low birth rate due to limited space, high cost of living, and desire for privacy.
   - Low death rate due to access to hospitals, advanced technology, and skilled doctors.
 
 - Rural:
+
   - High birth rate due to reliance on manual labor and large families.
   - High death rate due to limited access to healthcare, lack of knowledge, and superstitious practices.
 
@@ -457,10 +462,13 @@ Use examples like:
 **Answer:**
 
 - Rich:
+
   - Can afford many children but usually have few to preserve inheritance and legacy.
 
 - Poor:
+
   - Often have many children due to:
+
     - Lack of access to contraception
     - Need for emotional relief through sex
     - Need help with manual labor
@@ -473,9 +481,11 @@ Use examples like:
 **Answer:**
 
 - Past:
+
   - Natural disasters, famine, disease from nature
 
 - Today:
+
   - Lifestyle diseases (e.g. heart disease, cancer from junk food)
   - Man-made problems (e.g. lab leaks, urban sanitation)
   - Higher crime and terrorism due to capitalism and conflict
@@ -487,10 +497,12 @@ Use examples like:
 **Answer:**
 
 - Developed:
+
   - Low population, strong infrastructure
   - Everyone has access to services → high standard of living → low death rate
 
 - Less Developed:
+
   - High population, limited resources
   - Weak infrastructure, poor education, poor health → high birth and death rates
 
@@ -529,10 +541,12 @@ Use examples like:
 - **Youth**: Education, nutrition programs (both)
 
 - **Working-age**:
+
   - Developed: family support, skill reskilling, childcare
   - Less developed: job creation, microloans, farming support
 
 - **Elderly**:
+
   - Developed: retirement homes, healthcare
   - Less developed: community care programs, pensions
 
@@ -545,6 +559,7 @@ Use examples like:
 - **Cause**: Declining birth rate → fewer working-age citizens
 
 - **Solution**:
+
   - Encourage **immigration**
   - Support **childcare**, **parental leave**, family benefits
 
@@ -555,10 +570,12 @@ Use examples like:
 **Answer:**
 
 - **Local investment**:
+
   - Pros: Job creation, better money circulation
   - Cons: Less innovation, smaller global impact
 
 - **Foreign investment**:
+
   - Pros: Brings capital, buys local raw materials, expands economy
   - Cons: Profit repatriation, may not hire local workers
 
@@ -575,13 +592,19 @@ Use examples like:
 ## How can developed countries solve labor shortages?
 
 **Answer:**
+
 1. **Import foreign workers**
+
    - Pros: quick, simple, immediate fix.
    - Cons: wage suppression, crime risk, political tension, resource depletion.
+
 2. **Encourage domestic birth rate**
+
    - Pros: long-term stability.
    - Cons: slow to take effect.
+
 3. **Automate industries**
+
    - Pros: sustainable in the long run.
    - Cons: high initial investment, not all jobs automatable.
 
@@ -652,6 +675,7 @@ Use examples like:
 **Answer:**
 
 - Discuss pros and cons of each:
+
   - Local labor keeps money internal, builds stable workforce.
   - Foreign labor fills immediate gaps but risks conflict.
 
@@ -677,14 +701,17 @@ Use examples like:
 **Answer:**
 
 - Solution 1: Allow foreign migrants
+
   - Pros: quick, cheap, immediate labor
   - Cons: crime, cultural disruption, leakage of money, political tension, wage suppression
 
 - Solution 2: Use machines
+
   - Pros: long-term cost efficiency, continuous operation
   - Cons: high initial cost, not suitable for all tasks, need specialists, maintenance delays
 
 - Solution 3: Encourage citizens to give birth
+
   - Pros: national self-sufficiency, sustainable
   - Cons: long waiting time (18+ years), high government spending required, needs trustworthy policy
 
@@ -695,10 +722,12 @@ Use examples like:
 **Answer:**
 
 - Government:
+
   - Easier to control death rate (e.g. through vaccination, war restrictions)
   - Difficult to control birth rate due to cultural/religious resistance
 
 - Religious sector:
+
   - Believes death is God’s will, hard to control
   - Easier to influence birth rate by aligning teachings with God's will (e.g. birth = merit)
 
@@ -747,10 +776,12 @@ Use examples like:
 **Answer:**
 
 - Government:
+
   - Can regulate death rate more easily (policy-driven, people fear death)
   - Cannot easily regulate birth rate due to culture, religion
 
 - Religion:
+
   - Believes death is in God’s hands, not controllable
   - Can influence birth rate easily through divine teachings
 
@@ -815,6 +846,7 @@ Use examples like:
 - Started in 1928 (USA)
 
 - Focused on:
+
   - Increased technology
   - Decreased manpower
   - Monoagriculture
@@ -827,12 +859,14 @@ Use examples like:
 **Answer:**
 
 - China:
+
   - Land redistributed after 1949
   - Communes formed with shared labor, tools, and equal product distribution
   - Emphasis on equality (one vote per member regardless of land size)
   - Fast and democratic decision-making
 
 - El Salvador:
+
   - Commune introduced by Spanish colonizers
   - Formed by rich landowners aiming for export (cash crops: coffee, tea, cocoa)
   - Hierarchical and bureaucratic structure
@@ -846,6 +880,7 @@ Use examples like:
 **Answer:**
 
 - Developed:
+
   - Organized into departments (R&D, sales, marketing)
   - Skilled labor, high technology use
   - Standardized, high-quality products for global markets
@@ -853,6 +888,7 @@ Use examples like:
   - Comply with fair trade: legal labor, environmental care
 
 - Less Developed:
+
   - Owner manages all aspects of production
   - Mostly manpower-based, unskilled labor
   - Non-standardized products for local markets
