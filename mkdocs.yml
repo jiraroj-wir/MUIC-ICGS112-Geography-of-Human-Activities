@@ -1,6 +1,6 @@
 site_name: ICGS112 NOTES
 theme:
-  name: 
+  name: Material
   palette:
     scheme: slate  # dark mode
   features:
