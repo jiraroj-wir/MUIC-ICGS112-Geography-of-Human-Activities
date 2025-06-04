@@ -1,0 +1,174 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Byte-compiled / optimized / DLL files
+*.pyo
+*.pyd
+*.so
+
+# Cython build
+*.c
+*.cpp
+*.cxx
+*.h
+*.pyx
+*.pyd
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Pipenv
+Pipfile.lock
+
+# poetry
+poetry.lock
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Pyre type checker
+.pyre/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# pytype
+.pytype/
+
+# Caches
+.cache/
+__pypackages__/
+
+# Environments
+.env
+.env/
+.venv
+.venv/
+env/
+env*/
+ENV/
+ENV*/
+venv/
+venv*/
+.venv*/
+.conda/
+conda-meta/
+*.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.nbconvert.ipynb
+
+# === Editors & IDEs ===
+
+# VSCode
+.vscode/
+.code-workspace
+
+# PyCharm
+.idea/
+*.iml
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Vim
+*.swp
+*.swo
+*.swm
+*.swn
+*.tmp
+*.bak
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# JetBrains IDEs
+*.iws
+*.ipr
+*.idb
+
+# Eclipse
+.project
+.pydevproject
+
+# Spyder
+.spyderproject
+.spyproject
+
+# Atom
+.atom/
+*.coffee
+
+# === OS / System ===
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+.Icon?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Linux
+*~
+.nfs*
+
+# Other logs and temp files
+*.log
+*.tmp
+*.temp
+*.orig
+*.old
+
+# Local files
+local_settings.py
