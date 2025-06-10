@@ -6,7 +6,6 @@ It includes content primarily for the **midterm**, and will later be expanded to
 > These notes are written for personal study and academic review only.  
 > I uphold academic integrity: AI tools were only used to assist in organizing content — **never in any tests or assignments**.
 
-* I will clean up both the site and repo after the midterm
 ---
 
 ## Notes
@@ -17,7 +16,8 @@ It includes content primarily for the **midterm**, and will later be expanded to
 ---
 
 **Credited tools:** [mkdocs.org](https://www.mkdocs.org)  
+
 [GitHub Repository](https://github.com/jiraroj-wir/MUIC-ICGS112-Geography-of-Human-Activities)
 
-_Last updated: **June 4, 2025**_
+_Last updated: **June 10, 2025**_
 
