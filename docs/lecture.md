@@ -7,17 +7,19 @@
 Behaviorism emphasizes stimulus-response relationships. In animals, behaviors can be easily manipulated using conditioning — like Pavlov’s famous experiment where dogs salivated at the sound of a bell after repeated associations with food.
 
 - A controversial experiment was discussed where babies were subjected to violent conditioning — fed raw meat, exposed to aggression — and then released into society. Surprisingly, some behaved “normally,” suggesting:
-  - Human behavior is **far more complex and harder to control** than that of animals.
-  - Unlike dogs, humans possess advanced cognition and socio-emotional variables.
+- Human behavior is **far more complex and harder to control** than that of animals.
+- Unlike dogs, humans possess advanced cognition and socio-emotional variables.
+
+---
 
 ### Constructivism
 
 **Definition:** Constructivism is the theory that knowledge and meaning are constructed through experience, not passively received from the environment.
 
 - According to this view, **there is no single reality**. People's understanding of the world is shaped by:
-  - Cultural background
-  - Educational level
-  - Language and environment
+- Cultural background
+- Educational level
+- Language and environment
 - **Example:** A person from North Korea may interpret "freedom" differently from someone in Finland. If freedom were objectively real, it would carry a consistent definition across people — but it doesn't. Hence, reality is constructed, not discovered.
 
 ### Cognitivism
@@ -26,9 +28,9 @@ Behaviorism emphasizes stimulus-response relationships. In animals, behaviors ca
 
 - Everyone has cognitive processes, but outcomes may differ even under similar inputs.
 - Tightly linked to constructivism, it suggests that:
-  - Learning involves actively organizing information.
-  - Knowledge is internal and structured uniquely by each person.
-  - Multiple sources are needed to reduce bias and extract shared truths.
+- Learning involves actively organizing information.
+- Knowledge is internal and structured uniquely by each person.
+- Multiple sources are needed to reduce bias and extract shared truths.
 
 ### Space and Time (linked to Constructivism and Cognitivism)
 
@@ -49,6 +51,8 @@ Behaviorism emphasizes stimulus-response relationships. In animals, behaviors ca
 ### Possibilism
 
 **Definition:** Possibilism argues that while the environment sets constraints, humans have the agency to choose from many possible courses of action within those limits.
+
+---
 
 - To declare something “real,” it must be testable with consistent results.
 - **Example:** Water remains water regardless of the container — consistent, predictable, and verifiable.
@@ -79,8 +83,8 @@ Behaviorism emphasizes stimulus-response relationships. In animals, behaviors ca
 
 - **Focus:** Empire-building, road systems, and resource documentation
 - **Achievements:**
-  - Maps, political geography, and trade routes
-  - Use of chariots and wheels for spatial movement
+- Maps, political geography, and trade routes
+- Use of chariots and wheels for spatial movement
 - Collapse of Rome led to fragmentation into smaller cultures and systems
 
 ### Dark Ages
@@ -106,9 +110,9 @@ Behaviorism emphasizes stimulus-response relationships. In animals, behaviors ca
 
 - **Focus:** Environmental preservation, sustainability, data-driven planning
 - **Tools:**
-  - GPS
-  - GIS (Geographic Information Systems)
-  - Remote sensing and AI
+- GPS
+- GIS (Geographic Information Systems)
+- Remote sensing and AI
 - Purpose of geography shifted to understanding human impact and developing mitigation strategies
 
 ---
@@ -134,8 +138,8 @@ Behaviorism emphasizes stimulus-response relationships. In animals, behaviors ca
 
 ### Economics
 - Uses **socioeconomic stratification**:
-  - Categorizes people into classes: lower (labor), middle (investors), upper (rulers)
-  - Studies how each class contributes to economic development
+- Categorizes people into classes: lower (labor), middle (investors), upper (rulers)
+- Studies how each class contributes to economic development
 
 ### Geology
 - Focuses on **natural landscapes** and geological processes.
@@ -158,8 +162,8 @@ Behaviorism emphasizes stimulus-response relationships. In animals, behaviors ca
 2. **Count** the frequency of each type (e.g., schools, markets, banks).
 3. **Analyze** the most frequent to infer societal values.
 
-> **Example:**  
-> In Saraburi, the high number of schools suggests the community values education.  
+> **Example:**
+> In Saraburi, the high number of schools suggests the community values education.
 > In Sakon Nakhon, the prevalence of factories suggests a priority on industry.
 
 ### Factors Influencing Economic Activities:
@@ -183,11 +187,11 @@ Behaviorism emphasizes stimulus-response relationships. In animals, behaviors ca
 ### Key Contrasts with Spatial Perspective:
 - **Disagrees** that similar environments guarantee similar development.
 - Emphasizes other **influential variables**, such as:
-  - Cultural values
-  - Political systems
-  - Religion
-  - History and lived experience
-  - Weather conditions
+- Cultural values
+- Political systems
+- Religion
+- History and lived experience
+- Weather conditions
 
 > **Example: Singapore vs. Burma**
 > - **Singapore** and **Burma** were both colonized by the British.
@@ -208,7 +212,7 @@ Behaviorism emphasizes stimulus-response relationships. In animals, behaviors ca
 - **Ecological perspective** is limited to national-level analysis.
 - Main tools: **national laws**, **policies**, and **regulations**.
 
->  **Note:**  
+>  **Note:**
 > In ecological perspective, the word *value* means to exploit for benefit — unlike in spatial perspective where it means to cherish or uphold.
 
 - **Example:** Thailand passed laws to protect forests, elephants, and even water monitors (used for exotic leather) — not because of moral belief, but to control overexploitation of valuable resources.
@@ -219,13 +223,13 @@ Behaviorism emphasizes stimulus-response relationships. In animals, behaviors ca
 
 ### Case Study: Myanmar Crisis
 - Ongoing conflict in Myanmar threatens Thailand’s **national security**.
-  - Influx of weapons (via Thai black market or as transit hub).
-  - Increased illegal migration:
-    - Burmese refugees seek jobs
-    - Some operate outside legal system, potentially driving up crime
+- Influx of weapons (via Thai black market or as transit hub).
+- Increased illegal migration:
+- Burmese refugees seek jobs
+- Some operate outside legal system, potentially driving up crime
 - This affects:
-  - **Security** (arms proliferation, unregistered population)
-  - **Physical geography** (new housing, infrastructure, resource use)
+- **Security** (arms proliferation, unregistered population)
+- **Physical geography** (new housing, infrastructure, resource use)
 
 ---
 
@@ -233,24 +237,24 @@ Behaviorism emphasizes stimulus-response relationships. In animals, behaviors ca
 
 ### Key Factors Changing Geographic Character:
 1. **Depletion of Resources**
-   - Salaya has diamond → mining industry develops
-   - Once depleted → residents leave or pivot to tourism (antique mines, souvenirs)
+- Salaya has diamond → mining industry develops
+- Once depleted → residents leave or pivot to tourism (antique mines, souvenirs)
 
 2. **Discovery of New Resources**
-   - Discovery in Mahidol could make Thailand wealthy
-   - Region changes from educational hub to industrial zone
+- Discovery in Mahidol could make Thailand wealthy
+- Region changes from educational hub to industrial zone
 
 3. **Technological Development**
-   - Flood-resistant homes
-   - Floating agriculture
-   - Previously uninhabitable zones (e.g., swamps) become livable
+- Flood-resistant homes
+- Floating agriculture
+- Previously uninhabitable zones (e.g., swamps) become livable
 
 4. **New Economic Conditions**
-   - Example: ASEAN integration
-     - Labor migration increases
-     - Local areas adapt with:
-       - New housing
-       - Markets for Burmese, Laotian, Cambodian goods
+- Example: ASEAN integration
+- Labor migration increases
+- Local areas adapt with:
+- New housing
+- Markets for Burmese, Laotian, Cambodian goods
 
 ---
 
@@ -260,9 +264,9 @@ Behaviorism emphasizes stimulus-response relationships. In animals, behaviors ca
 - **Store owners** must know customer flow, supplier locations.
 - **Disaster zones** (e.g., hurricane-prone Louisiana): geographic knowledge saves lives.
 - **Factory owners** consider:
-  - Access to labor
-  - Access to transport
-  - Access to energy and inputs
+- Access to labor
+- Access to transport
+- Access to energy and inputs
 
 ---
 
@@ -290,9 +294,9 @@ Behaviorism emphasizes stimulus-response relationships. In animals, behaviors ca
 - Effective during hardship (e.g., war, internal conflict)
 - Helps create solidarity and motivation for collective action
 - **Short-term benefits**:
-  - Unity
-  - Patriotism
-  - National pride
+- Unity
+- Patriotism
+- National pride
 
 >  **Note:** If prolonged, nationalism may turn into **exclusivism** or **superiority bias**, leading to discrimination or conflict.
 
@@ -303,18 +307,18 @@ Behaviorism emphasizes stimulus-response relationships. In animals, behaviors ca
 #### African Independence Movements
 - During WWII, European colonizers withdrew soldiers for the war effort
 - Africans united using **nationalism ideology**
-  - “We share hardship, language, and culture”
+- “We share hardship, language, and culture”
 - Result: Successfully fought for independence
 
 #### Thailand under Political Division
 - Conflict between yellow-shirt and red-shirt factions
 - Nationalism adopted by Prayuth Chan-o-cha to restore unity:
-  - Introduced **Twelve Thai Values**
-  - Mandated national anthem and media showcasing Thai heritage
+- Introduced **Twelve Thai Values**
+- Mandated national anthem and media showcasing Thai heritage
 - **Short-term effect:** Unity and peace
 - **Long-term effect:** Superiority complex toward neighbors (e.g., Laos, Cambodia)
-  - Resulted in stereotypes and discrimination
-  - Created division and reduced mutual understanding
+- Resulted in stereotypes and discrimination
+- Created division and reduced mutual understanding
 
 ---
 
@@ -353,9 +357,9 @@ Where:
 ### Use Case:
 - Used to predict which cities will have the strongest interactions (trade, tourism, etc.)
 - Helps with:
-  - Targeting customers
-  - Marketing plans
-  - Urban planning
+- Targeting customers
+- Marketing plans
+- Urban planning
 
 >  **Note:** It's a generalization tool — actual interaction data (calls, trips) is often unavailable.
 
@@ -385,22 +389,22 @@ Where:
 
 ## Five Themes of Geography
 
-1. **Location**  
-   - Exact coordinates (latitude and longitude)
+1. **Location**
+- Exact coordinates (latitude and longitude)
 
-2. **Place**  
-   - Describes people and characteristics of an area  
-   - Example: “party at my place” evokes people and atmosphere
+2. **Place**
+- Describes people and characteristics of an area
+- Example: “party at my place” evokes people and atmosphere
 
-3. **Region**  
-   - Group of areas that share traits  
-   - Example: Isaan provinces, Southeast Asia as 3S (sun, sand, sex) region
+3. **Region**
+- Group of areas that share traits
+- Example: Isaan provinces, Southeast Asia as 3S (sun, sand, sex) region
 
-4. **Movement**  
-   - Movement of people, goods, money, ideas, ideologies
+4. **Movement**
+- Movement of people, goods, money, ideas, ideologies
 
-5. **Human-Environmental Interaction**  
-   - How humans affect and are affected by the environment
+5. **Human-Environmental Interaction**
+- How humans affect and are affected by the environment
 
 ---
 
@@ -418,19 +422,19 @@ Where:
 - Early settlements on hillsides (fear of floods)
 - Later moved to rivers/deltas after learning flood cycles
 - **Irrigation systems invented**
-  - Increased plantation size and flexibility
-  - Created class system: rulers (who controlled water) vs laborers
-  - Higher food supply → higher birth rate → population growth
+- Increased plantation size and flexibility
+- Created class system: rulers (who controlled water) vs laborers
+- Higher food supply → higher birth rate → population growth
 
 ### Industrial Revolution
 - Huge food supply increases:
-  - Advanced machinery and farming techniques
-  - International trade and food imports
+- Advanced machinery and farming techniques
+- International trade and food imports
 - Shift from barter to **monetary economy**
 - Global nutrition improved, but food became chemically processed
 - Population increased, but **not as fast** as during Agriculture era:
-  - Pollution, poor factory conditions increased death
-  - Machines reduced labor demand
+- Pollution, poor factory conditions increased death
+- Machines reduced labor demand
 
 ---
 
@@ -452,7 +456,7 @@ Where:
 ### Doubling Time
 - **Definition:** Time it takes for a population to double
 - **Formula:** Find two years where pop. doubled, subtract
-  - Example: 1950: 150 → 2010: 300 → Doubling time = 60 years
+- Example: 1950: 150 → 2010: 300 → Doubling time = 60 years
 
 ---
 
@@ -473,8 +477,8 @@ Where:
 ## Key Terminology Clarification for Exams
 
 - Carefully differentiate:
-  - **Birth rate** vs **Fertility rate**
-  - **Death rate** vs **Mortality rate**
+- **Birth rate** vs **Fertility rate**
+- **Death rate** vs **Mortality rate**
 - Pay close attention to keywords like **increase**, **decrease**, **high**, or **low**
 - Mistaking one term or direction can lead to incorrect answers
 
@@ -503,17 +507,17 @@ Where:
 
 ### Modern Mono-Agriculture
 - **Benefits:**
-  - Specialization leads to expertise and efficient production
-  - Reduced costs (right water, fertilizer, tools)
-  - Predictable quality and quantity
-  - Access to **global markets**, higher pricing
+- Specialization leads to expertise and efficient production
+- Reduced costs (right water, fertilizer, tools)
+- Predictable quality and quantity
+- Access to **global markets**, higher pricing
 - **Risks Managed:**
-  - Food imports available during shortages
-  - International trade mitigates local crop failure
+- Food imports available during shortages
+- International trade mitigates local crop failure
 - **Market Dominance:**
-  - Farmers with large output can **monopolize**
-  - Undercut competitors with promotions (e.g., “Buy 1, Get 1 Free”)
-  - Drive out small farmers and later raise prices (as seen with CP group)
+- Farmers with large output can **monopolize**
+- Undercut competitors with promotions (e.g., “Buy 1, Get 1 Free”)
+- Drive out small farmers and later raise prices (as seen with CP group)
 
 ---
 
@@ -526,12 +530,12 @@ Where:
 - Majority are **landless** — discouraged from innovating or increasing output
 - Food supply remains **low**, innovation is stagnant
 
->  **Note:**  
+>  **Note:**
 > Political systems like **feudalism** suppressed food production by disconnecting laborers from land ownership.
 
 ### Reflective Prompt:
 - If feudalism suppressed food output, which system might increase it?
-  - Possible answers: socialism, communism, democracy, authoritarianism — justify your reasoning.
+- Possible answers: socialism, communism, democracy, authoritarianism — justify your reasoning.
 
 ---
 
@@ -582,9 +586,9 @@ Where:
 - **Steam power** → freed factories from water sources; enabled **urban growth**
 - Steam-powered transportation (rail, boats) revolutionized **movement** and **trade**
 - Led to:
-  - High food production
-  - Environmental damage
-  - Increased demand for coal and iron (mining boom)
+- High food production
+- Environmental damage
+- Increased demand for coal and iron (mining boom)
 
 ---
 
@@ -594,9 +598,9 @@ Where:
 - Not limited to aristocracy anymore
 - Vendors emerged to support factory life (raw materials, clothing, food)
 - Resulted in:
-  - Increased **productivity**
-  - More **income distribution**
-  - Creation of a **modern middle class**
+- Increased **productivity**
+- More **income distribution**
+- Creation of a **modern middle class**
 
 ---
 
@@ -605,8 +609,8 @@ Where:
 - By 1850, urban populations embraced **consumerism**
 - Entertainment, fashion, comfort became normalized
 - This **impacted both birth and death rates**:
-  - Improved lifestyle = longer life
-  - But urban living = crowded, unsanitary = illness
+- Improved lifestyle = longer life
+- But urban living = crowded, unsanitary = illness
 
 ---
 
@@ -615,23 +619,23 @@ Where:
 - Introduction of textile machines replaced cottage industries
 - Example: **Luddites** — workers who destroyed machines that replaced them
 - Machine efficiency:
-  - One spinning mule = output of 3,000 hand spinners
+- One spinning mule = output of 3,000 hand spinners
 
 ---
 
 ## Spread of Industrialization to America
 
 - Brought via **industrial espionage**
-  - Samuel Slater memorized spinning machine design
-  - Eli Whitney introduced **interchangeable parts** and invented the **cotton gin**
+- Samuel Slater memorized spinning machine design
+- Eli Whitney introduced **interchangeable parts** and invented the **cotton gin**
 - **Cotton gin**:
-  - Increased cotton supply → drove U.S. Southern economy
-  - Increased demand for **slave labor**
+- Increased cotton supply → drove U.S. Southern economy
+- Increased demand for **slave labor**
 - New England became center for U.S. industry due to:
-  - Rivers
-  - Ports
-  - Investment capital
-  - Poor soil for farming
+- Rivers
+- Ports
+- Investment capital
+- Poor soil for farming
 
 ---
 
@@ -652,7 +656,7 @@ Where:
 - Factory discipline regulated life via clocks
 - Created **modern middle class** and introduced **modern urban life**
 
---- 
+---
 
 ## Factors Contributing to Increased Birth Rate
 
@@ -688,12 +692,12 @@ Where:
 
 #### Consequences:
 - **High birth rate:**
-  - Women use childbearing as security in marriage
-  - Limited choices force early marriage and frequent pregnancy
+- Women use childbearing as security in marriage
+- Limited choices force early marriage and frequent pregnancy
 - **High infant and maternal mortality:**
-  - Women lack medical knowledge
-  - Poor health and over-pregnancy deteriorate women's bodies
-  - No access to healthcare tools or medications
+- Women lack medical knowledge
+- Poor health and over-pregnancy deteriorate women's bodies
+- No access to healthcare tools or medications
 
 >  **Note:** Women in these societies often die young from childbirth or disease due to nutritional depletion and lack of reproductive care.
 
@@ -707,25 +711,25 @@ Where:
 
 #### Consequences:
 - **Low birth rate:**
-  - Marriage and childbirth are delayed
-  - Many women prioritize career over motherhood
-  - High cost (time and energy) of pregnancy deters childbirth
+- Marriage and childbirth are delayed
+- Many women prioritize career over motherhood
+- High cost (time and energy) of pregnancy deters childbirth
 - **Low death rate:**
-  - Educated women can care for their children and themselves better
-  - Fewer pregnancies reduce maternal risk
-  - Better access to healthcare
+- Educated women can care for their children and themselves better
+- Fewer pregnancies reduce maternal risk
+- Better access to healthcare
 
 ---
 
 ## Role of Education in Population Dynamics
 
 - Educated individuals can:
-  - Decide family planning based on income/job
-  - Care for children properly → lower infant mortality
-  - Evaluate their readiness and capacity to raise children
+- Decide family planning based on income/job
+- Care for children properly → lower infant mortality
+- Evaluate their readiness and capacity to raise children
 - Example: A person working night shifts understands they may be unable to care for a baby → may postpone or avoid childbirth
 
---- 
+---
 
 ## Urban vs Rural Impact on Birth and Death Rates
 
@@ -738,8 +742,8 @@ Where:
 ### Rural Areas
 - Agriculture-based economies rely heavily on **manual labor**, pushing for **high birth rates**.
 - Technology is available but underused due to:
-  - High cost of equipment.
-  - Price control laws on agricultural products in many countries.
+- High cost of equipment.
+- Price control laws on agricultural products in many countries.
 - Labor is often cheaper than machines, especially in **less developed countries**.
 - Limited access to healthcare and poor sanitation contribute to **high death rates**.
 
@@ -748,14 +752,14 @@ Where:
 ## Religious Influence on Birth Rate
 - Religion plays a **major role** in influencing **birth rate**, but not so much death rate.
 - Most major religions (Christianity, Islam, Buddhism, Hinduism, Sikhism):
-  - Encourage childbirth.
-  - Consider children a gift or duty from God.
-  - View procreation as a holy act.
+- Encourage childbirth.
+- Consider children a gift or duty from God.
+- View procreation as a holy act.
 
 ### Strategic Purpose
 - Larger birth numbers **increase the number of followers**, thus increasing:
-  - Political influence.
-  - Financial power through donations (e.g. Catholic Church tithing 10%).
+- Political influence.
+- Financial power through donations (e.g. Catholic Church tithing 10%).
 
 > Religious institutions may influence government policies to protect and promote their values.
 
@@ -768,10 +772,10 @@ Where:
 
 ### Poor Families
 - Paradoxically, tend to have **more children**, due to:
-  - Limited access to contraception (too expensive).
-  - **Sexual activity as accessible pleasure** amid limited entertainment.
-  - Children viewed as **labor support** for manual jobs.
-  - Hope that children will provide **financial support** in future.
+- Limited access to contraception (too expensive).
+- **Sexual activity as accessible pleasure** amid limited entertainment.
+- Children viewed as **labor support** for manual jobs.
+- Hope that children will provide **financial support** in future.
 
 > In many Thai families, children are raised with the expectation to financially repay their parents.
 
@@ -783,11 +787,11 @@ Where:
 
 ### Today
 - Many diseases stem from **modern habits** and **human activities**:
-  - Poor diets → heart disease, diabetes, cancer.
-  - Environmental damage → more severe natural disasters.
+- Poor diets → heart disease, diabetes, cancer.
+- Environmental damage → more severe natural disasters.
 - **Capitalism** is sometimes blamed for fostering:
-  - Greed, selfishness → crime and social conflict.
-  - Increased terrorism (e.g., 9/11 as fear-based strategy).
+- Greed, selfishness → crime and social conflict.
+- Increased terrorism (e.g., 9/11 as fear-based strategy).
 
 ---
 
@@ -828,8 +832,8 @@ Population is grouped into:
 1. **Identify**: Which pyramid shows a developed/less developed country? Why?
 2. **Potential**: Which has more economic growth potential? Look at working-age group.
 3. **Policy Suggestions** for each age group in:
-   - Developed Country
-   - Less Developed Country
+- Developed Country
+- Less Developed Country
 
 ---
 
@@ -847,21 +851,21 @@ Population is grouped into:
 - Brings **capital**, **technology**
 - Buys **local raw materials**
 - But:
-  - Profits may be **repatriated** abroad
-  - Not all companies hire local workers
-  - Example: Some Chinese firms bring workers from home country
+- Profits may be **repatriated** abroad
+- Not all companies hire local workers
+- Example: Some Chinese firms bring workers from home country
 
 ---
 
 ## Retirement Support (Developed vs Less Developed)
 
 - **Developed**:
-  - Good quality **retirement homes**
-  - Access to **entertainment** & **medical care**
-  - Elderly live longer, contribute via light work or creativity
+- Good quality **retirement homes**
+- Access to **entertainment** & **medical care**
+- Elderly live longer, contribute via light work or creativity
 - **Less Developed**:
-  - No strong elder care system
-  - Elderly die younger due to **lack of support**
+- No strong elder care system
+- Elderly die younger due to **lack of support**
 
 ---
 
@@ -874,8 +878,8 @@ Population is grouped into:
 ## Tax Avoidance and Corruption
 
 - Foreign companies may **avoid full tax payments** through bribery:
-  - Ex: If a company owes 300M baht in tax, they may negotiate to pay only 250M by bribing officials 50M.
-  - Common in governments with high **corruption levels**, undermining public benefit.
+- Ex: If a company owes 300M baht in tax, they may negotiate to pay only 250M by bribing officials 50M.
+- Common in governments with high **corruption levels**, undermining public benefit.
 
 ## Pros and Cons of Foreign Investment
 
@@ -899,19 +903,19 @@ Population is grouped into:
 ### Solutions and Their Pros/Cons
 
 1. **Allowing Foreign Workers**
-   - **Pros**: Quick, easy, fast to fill labor gaps.
-   - **Cons**:
-     - **Leakage of income**: earnings sent back to home countries.
-     - **Cultural disturbance**: imported lifestyles may alter local values.
-     - **Legal vulnerability**: foreign workers may be exploited or cause crime.
-     - **Environmental degradation**: foreigners may not value or conserve national resources.
-     - **Political tension**: increased support for foreigners can cause resentment among locals.
-     - **Wage distortion**: illegal migrants work below minimum wage → businesses prefer hiring them → wage standards drop.
+- **Pros**: Quick, easy, fast to fill labor gaps.
+- **Cons**:
+- **Leakage of income**: earnings sent back to home countries.
+- **Cultural disturbance**: imported lifestyles may alter local values.
+- **Legal vulnerability**: foreign workers may be exploited or cause crime.
+- **Environmental degradation**: foreigners may not value or conserve national resources.
+- **Political tension**: increased support for foreigners can cause resentment among locals.
+- **Wage distortion**: illegal migrants work below minimum wage → businesses prefer hiring them → wage standards drop.
 
 2. **Conflict & Wage System Impact**
-   - Legal workers get minimum wage; illegal migrants don’t → cheaper for business owners.
-   - Employers pay **under-the-table** to illegal workers.
-   - Thai workers then must **undercut** their own wage to compete.
+- Legal workers get minimum wage; illegal migrants don’t → cheaper for business owners.
+- Employers pay **under-the-table** to illegal workers.
+- Thai workers then must **undercut** their own wage to compete.
 
 ---
 
@@ -949,11 +953,11 @@ Population is grouped into:
 
 ### Benefits:
 - **Cost-efficient in the long run**:
-  - Machines don’t require salaries, insurance, or paid leave.
-  - Can operate 24/7 without overtime costs.
+- Machines don’t require salaries, insurance, or paid leave.
+- Can operate 24/7 without overtime costs.
 - **Predictable & Scalable**:
-  - Fewer legal complications compared to human labor.
-  - Reduces employer liability (e.g., injury, insurance).
+- Fewer legal complications compared to human labor.
+- Reduces employer liability (e.g., injury, insurance).
 
 ### Initial Costs:
 - Expensive upfront (~1 million THB per machine).
@@ -961,14 +965,14 @@ Population is grouped into:
 
 ### Long-term Savings:
 - Saves on:
-  - Wages (especially overtime)
-  - Social security, insurance
-  - Facilities (pantry, aircon, restrooms)
-  - Annual trips and bonuses
+- Wages (especially overtime)
+- Social security, insurance
+- Facilities (pantry, aircon, restrooms)
+- Annual trips and bonuses
 
 ### Drawbacks:
 - **Not applicable to all sectors**:
-  - Roles needing creativity or taste (e.g. chefs) can’t be automated.
+- Roles needing creativity or taste (e.g. chefs) can’t be automated.
 - **Requires constant updates and technical staff**.
 - **Spare parts can delay production** if not stocked in advance.
 
@@ -1009,14 +1013,14 @@ Population is grouped into:
 - Surviving adults + newborns → population growth.
 - Population growth can result in high population density.
 
---- 
+---
 
 ## Population Pyramid Analysis
 
 - Populations are divided into:
-  - Very young (1–20): vulnerable but hold future potential.
-  - Working age (21–60): vital for economic development.
-  - Elderly (61+): vulnerable, demand state support.
+- Very young (1–20): vulnerable but hold future potential.
+- Working age (21–60): vital for economic development.
+- Elderly (61+): vulnerable, demand state support.
 ---
 
 ## Government vs. Religious Perspectives on Birth & Death Rates
@@ -1024,18 +1028,18 @@ Population is grouped into:
 ### Government Perspective
 
 - **Easier to control death rate**:
-  - People fear death → follow regulations (e.g., vaccines, curfews).
+- People fear death → follow regulations (e.g., vaccines, curfews).
 - **Hard to control birth rate**:
-  - Cultural and religious beliefs interfere.
-  - Example: Chinese value sons; Christian/Muslim view children as gifts from God.
-  - Government lacks control over contraception use.
+- Cultural and religious beliefs interfere.
+- Example: Chinese value sons; Christian/Muslim view children as gifts from God.
+- Government lacks control over contraception use.
 
 ### Religious Sector Perspective
 
 - **Death rate is God's will**:
-  - Can't be predicted or controlled.
+- Can't be predicted or controlled.
 - **Birth rate is controllable**:
-  - Can be influenced via religious teachings (e.g., God's blessings).
+- Can be influenced via religious teachings (e.g., God's blessings).
 
 ---
 
@@ -1055,11 +1059,11 @@ Population is grouped into:
 ### 3. Advanced Agriculture Techniques
 
 - **Mono vs. Multiple Planting**:
-  - Diverse food supply.
+- Diverse food supply.
 - **Silo Storage**:
-  - Moisture control prolongs shelf life.
-  - Farmers can store and wait for better pricing.
-  - Encourages surplus production and access to bigger markets.
+- Moisture control prolongs shelf life.
+- Farmers can store and wait for better pricing.
+- Encourages surplus production and access to bigger markets.
 
 ### 4. Freezing Systems
 
@@ -1086,8 +1090,8 @@ Population is grouped into:
 ### Social and Economic Influences on Birth and Death Rates
 
 - Economic activity, cultural beliefs, and religious values vary by region and affect birth/death rates.
-  - Example: Bangkok has lower birth and death rates due to urban lifestyle, higher incomes, and access to healthcare.
-  - Example: Northeastern Thai provinces have higher rates due to agricultural labor demands and limited access to medical care.
+- Example: Bangkok has lower birth and death rates due to urban lifestyle, higher incomes, and access to healthcare.
+- Example: Northeastern Thai provinces have higher rates due to agricultural labor demands and limited access to medical care.
 - In the US, racial inequality affects life expectancy. White people tend to live longer than Black people due to systemic inequalities and limited healthcare access for minorities.
 
 ---
@@ -1143,10 +1147,10 @@ Population is grouped into:
 - Examples: agriculture, raising livestock, fishery, forestry, mining
 - Require less investment and capital compared to manufacturing
 - Common in less developed countries where:
-  - Labor is cheap and abundant
-  - Technology use is limited
-  - Products are non-standardized and mostly for local/national markets
-  - Only 10–20% of products are exported, yet this small export generates main income
+- Labor is cheap and abundant
+- Technology use is limited
+- Products are non-standardized and mostly for local/national markets
+- Only 10–20% of products are exported, yet this small export generates main income
 
 ---
 
@@ -1156,10 +1160,10 @@ Population is grouped into:
 
 - Triggered by post-war need to recover losses
 - Key characteristics:
-  1. Use of advanced technology
-  2. Reduction in manpower (due to labor shortages and rising wages)
-  3. Adoption of monoagriculture
-  4. Export-oriented production
+1. Use of advanced technology
+2. Reduction in manpower (due to labor shortages and rising wages)
+3. Adoption of monoagriculture
+4. Export-oriented production
 
 >  **Note:** This was driven by economic urgency and technological opportunity after WWI.
 
@@ -1170,8 +1174,8 @@ Population is grouped into:
 - Preference for technology over manpower
 - Export-oriented agriculture
 - Focus on **cash crops** or **commodity products**:
-  - Examples: coffee, tea, cocoa, soybean, potato, maize
-  - These are often modified before consumption (e.g., corn into syrup or animal feed)
+- Examples: coffee, tea, cocoa, soybean, potato, maize
+- These are often modified before consumption (e.g., corn into syrup or animal feed)
 - Developed nations often **import fresh food** from less developed countries
 
 ---
@@ -1181,12 +1185,12 @@ Population is grouped into:
 ### Livestock
 
 - Raised for:
-  - Consumption: meat, milk, eggs
-  - Labor
+- Consumption: meat, milk, eggs
+- Labor
 - Practices:
-  - Primitive herding: move with animals seasonally
-  - Mixed farming: crop-animal integration for mutual benefit
-  - Commercial livestock: raised for profit
+- Primitive herding: move with animals seasonally
+- Mixed farming: crop-animal integration for mutual benefit
+- Commercial livestock: raised for profit
 
 ### Fishery
 
@@ -1223,8 +1227,8 @@ Population is grouped into:
 - Uses a balanced mix of manpower and technology (50/50)
 - Prefers growing multiple crops on a single piece of land to diversify risk
 - Practices **mixed farming**: livestock and crops coexist and support each other
-  - Animal waste used as fertilizer
-  - Crops used to feed livestock
+- Animal waste used as fertilizer
+- Crops used to feed livestock
 - This integration reduces production costs
 - Focuses on food security and domestic consumption before export
 
@@ -1232,7 +1236,7 @@ Population is grouped into:
 
 - Practices monoagriculture for efficiency and export
 - Separates livestock and crop farming
-  - Buys specialized fertilizers and animal feed
+- Buys specialized fertilizers and animal feed
 - Larger focus on export over local consumption
 - Relies heavily on technological investment
 
@@ -1253,7 +1257,7 @@ Population is grouped into:
 - Could only afford limited equipment/seeds
 - Couldn't use full farmland capacity
 - Government set **ceiling price** (protects consumers) and **bottom price** (protects farmers)
-  - Limited profit margins
+- Limited profit margins
 - Many farmers couldn’t repay loans → sold land to rich farmers
 
 ### Emergence of Agricultural Cooperations
@@ -1261,10 +1265,10 @@ Population is grouped into:
 - Rich farmers accumulated too much land to manage alone
 - They merged lands and investments, forming cooperations
 - Characteristics of cooperation:
-  - Unequal shareholding → power concentrated in few hands
-  - Operates via **hierarchy** and **bureaucracy**
-    - More shares = more voting power and decision-making authority
-    - Time-consuming proposal approval process
+- Unequal shareholding → power concentrated in few hands
+- Operates via **hierarchy** and **bureaucracy**
+- More shares = more voting power and decision-making authority
+- Time-consuming proposal approval process
 
 ---
 
@@ -1273,14 +1277,14 @@ Population is grouped into:
 - Started in 1949 after the Communist Party redistributed land
 - Individual farming failed due to lack of equipment and skills
 - Communes formed by merging lands and sharing:
-  - Equipment
-  - Knowledge
-  - Labor
-  - Final products (shared equally regardless of land size)
+- Equipment
+- Knowledge
+- Labor
+- Final products (shared equally regardless of land size)
 - Emphasized **equality**, **unity**, and **sense of belonging**
 - No hierarchy or bureaucracy
-  - One person = one vote
-  - Fast decision-making
+- One person = one vote
+- Fast decision-making
 - Government encouraged communes to support peasants outside the system
 
 ---
@@ -1291,11 +1295,11 @@ Population is grouped into:
 - **Unlike China**, El Salvador's commune was formed by **rich landowners**
 - Focused on **cash crop export** (coffee, tea, cocoa) not local food security
 - Operated like a corporation:
-  - Larger landowners had more power and votes
-  - Employed **hierarchy and bureaucracy**
+- Larger landowners had more power and votes
+- Employed **hierarchy and bureaucracy**
 - Real farmers were pushed out:
-  - To borders and forests
-  - Led to **environmental degradation** due to deforestation for farmland
+- To borders and forests
+- Led to **environmental degradation** due to deforestation for farmland
 - Some rich owners fenced off land without using it → inefficient land use
 
 ---
@@ -1305,28 +1309,28 @@ Population is grouped into:
 ### Less Developed Countries
 
 - Factory owners often operate the entire business themselves
-  - Plan marketing, manage sales, hire labor, oversee production
+- Plan marketing, manage sales, hire labor, oversee production
 - Lack of formal skills, learning occurs through trial and error
 - Heavy reliance on manpower, limited use of machinery
 - Products are:
-  - Non-standardized
-  - Low in quality and uniformity
-  - Hard to scale for large or international markets
+- Non-standardized
+- Low in quality and uniformity
+- Hard to scale for large or international markets
 - Domestic market focus due to:
-  - Limited buyer purchasing power
-  - Products must be cheap, limiting profit margins
+- Limited buyer purchasing power
+- Products must be cheap, limiting profit margins
 
 ### Developed Countries
 
 - Well-organized factories with functional departments:
-  - Marketing, Research & Development (R&D), Sales, Finance, etc.
+- Marketing, Research & Development (R&D), Sales, Finance, etc.
 - Skilled workers in specialized roles
 - Investors focus on policy and capital, not daily operations
 - High usage of technology and machines for production
-  - Products are standardized, high quality, mass-produced
+- Products are standardized, high quality, mass-produced
 - Wide variety of related products using same base ingredients
-  - Example: shampoo, conditioner, hair spray from same base
-  - Helps build customer trust and brand loyalty
+- Example: shampoo, conditioner, hair spray from same base
+- Helps build customer trust and brand loyalty
 - Strong marketing and branding due to budget allocation
 - Capable of entering global markets and adapting to competition
 

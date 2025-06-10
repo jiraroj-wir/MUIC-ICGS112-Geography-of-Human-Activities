@@ -49,8 +49,8 @@ Mention the purpose, tools, and societal context in each period.
 - What they have in common
 
 - Key differences:
-  - Spatial: believes similar environments → similar development
-  - Ecological: emphasizes other variables (culture, politics, religion, etc.)
+- Spatial: believes similar environments → similar development
+- Ecological: emphasizes other variables (culture, politics, religion, etc.)
 
 ---
 
@@ -100,11 +100,11 @@ Mention that ecological perspective argues:
 
 - Other influencing factors include:
 
-  - Culture
-  - Political system
-  - Religion
-  - History and experience
-  - Weather conditions
+- Culture
+- Political system
+- Religion
+- History and experience
+- Weather conditions
 
 Use examples like:
 
@@ -120,8 +120,8 @@ Use examples like:
 
 - Mention impact on:
 
-  - Thailand’s national security (weapons trade, refugees)
-  - Physical geography (infrastructure change, population density)
+- Thailand’s national security (weapons trade, refugees)
+- Physical geography (infrastructure change, population density)
 
 ---
 
@@ -205,9 +205,9 @@ Use examples like:
 
 - Must explain how it affects:
 
-  - Production schedule
-  - Customer satisfaction
-  - Cost of production
+- Production schedule
+- Customer satisfaction
+- Cost of production
 
 - Use examples: poor road, political unrest, accidents, etc.
 
@@ -435,15 +435,15 @@ Use examples like:
 
 **Answer:**
 
-- Urban: 
+- Urban:
 
-  - Low birth rate due to limited space, high cost of living, and desire for privacy.
-  - Low death rate due to access to hospitals, advanced technology, and skilled doctors.
+- Low birth rate due to limited space, high cost of living, and desire for privacy.
+- Low death rate due to access to hospitals, advanced technology, and skilled doctors.
 
 - Rural:
 
-  - High birth rate due to reliance on manual labor and large families.
-  - High death rate due to limited access to healthcare, lack of knowledge, and superstitious practices.
+- High birth rate due to reliance on manual labor and large families.
+- High death rate due to limited access to healthcare, lack of knowledge, and superstitious practices.
 
 ---
 
@@ -467,16 +467,16 @@ Use examples like:
 
 - Rich:
 
-  - Can afford many children but usually have few to preserve inheritance and legacy.
+- Can afford many children but usually have few to preserve inheritance and legacy.
 
 - Poor:
 
-  - Often have many children due to:
+- Often have many children due to:
 
-    - Lack of access to contraception
-    - Need for emotional relief through sex
-    - Need help with manual labor
-    - Hope that children will support them in the future
+- Lack of access to contraception
+- Need for emotional relief through sex
+- Need help with manual labor
+- Hope that children will support them in the future
 
 ---
 
@@ -486,13 +486,13 @@ Use examples like:
 
 - Past:
 
-  - Natural disasters, famine, disease from nature
+- Natural disasters, famine, disease from nature
 
 - Today:
 
-  - Lifestyle diseases (e.g. heart disease, cancer from junk food)
-  - Man-made problems (e.g. lab leaks, urban sanitation)
-  - Higher crime and terrorism due to capitalism and conflict
+- Lifestyle diseases (e.g. heart disease, cancer from junk food)
+- Man-made problems (e.g. lab leaks, urban sanitation)
+- Higher crime and terrorism due to capitalism and conflict
 
 ---
 
@@ -502,13 +502,13 @@ Use examples like:
 
 - Developed:
 
-  - Low population, strong infrastructure
-  - Everyone has access to services → high standard of living → low death rate
+- Low population, strong infrastructure
+- Everyone has access to services → high standard of living → low death rate
 
 - Less Developed:
 
-  - High population, limited resources
-  - Weak infrastructure, poor education, poor health → high birth and death rates
+- High population, limited resources
+- Weak infrastructure, poor education, poor health → high birth and death rates
 
 ---
 
@@ -546,13 +546,13 @@ Use examples like:
 
 - **Working-age**:
 
-  - Developed: family support, skill reskilling, childcare
-  - Less developed: job creation, microloans, farming support
+- Developed: family support, skill reskilling, childcare
+- Less developed: job creation, microloans, farming support
 
 - **Elderly**:
 
-  - Developed: retirement homes, healthcare
-  - Less developed: community care programs, pensions
+- Developed: retirement homes, healthcare
+- Less developed: community care programs, pensions
 
 ---
 
@@ -564,8 +564,8 @@ Use examples like:
 
 - **Solution**:
 
-  - Encourage **immigration**
-  - Support **childcare**, **parental leave**, family benefits
+- Encourage **immigration**
+- Support **childcare**, **parental leave**, family benefits
 
 ---
 
@@ -575,13 +575,13 @@ Use examples like:
 
 - **Local investment**:
 
-  - Pros: Job creation, better money circulation
-  - Cons: Less innovation, smaller global impact
+- Pros: Job creation, better money circulation
+- Cons: Less innovation, smaller global impact
 
 - **Foreign investment**:
 
-  - Pros: Brings capital, buys local raw materials, expands economy
-  - Cons: Profit repatriation, may not hire local workers
+- Pros: Brings capital, buys local raw materials, expands economy
+- Cons: Profit repatriation, may not hire local workers
 
 ---
 
@@ -599,20 +599,20 @@ Use examples like:
 
 1. **Import foreign workers**
 
-   - Pros: quick, simple, immediate fix.
-   - Cons: wage suppression, crime risk, political tension, resource depletion.
+- Pros: quick, simple, immediate fix.
+- Cons: wage suppression, crime risk, political tension, resource depletion.
 
 2. **Encourage domestic birth rate**
 
-   - Pros: long-term stability.
-   - Cons: slow to take effect.
+- Pros: long-term stability.
+- Cons: slow to take effect.
 
 3. **Automate industries**
 
-   - Pros: sustainable in the long run.
-   - Cons: high initial investment, not all jobs automatable.
+- Pros: sustainable in the long run.
+- Cons: high initial investment, not all jobs automatable.
 
---- 
+---
 
 ## Why is migration considered a quick solution to labor shortages?
 
@@ -680,13 +680,12 @@ Use examples like:
 
 - Discuss pros and cons of each:
 
-  - Local labor keeps money internal, builds stable workforce.
-  - Foreign labor fills immediate gaps but risks conflict.
+- Local labor keeps money internal, builds stable workforce.
+- Foreign labor fills immediate gaps but risks conflict.
 
 - Ideal: Use a combination, with gradual shift toward self-sufficiency.
 
---- 
-
+---
 
 ## Why is it that developed countries may experience labor shortage in the near future?
 
@@ -706,18 +705,18 @@ Use examples like:
 
 - Solution 1: Allow foreign migrants
 
-  - Pros: quick, cheap, immediate labor
-  - Cons: crime, cultural disruption, leakage of money, political tension, wage suppression
+- Pros: quick, cheap, immediate labor
+- Cons: crime, cultural disruption, leakage of money, political tension, wage suppression
 
 - Solution 2: Use machines
 
-  - Pros: long-term cost efficiency, continuous operation
-  - Cons: high initial cost, not suitable for all tasks, need specialists, maintenance delays
+- Pros: long-term cost efficiency, continuous operation
+- Cons: high initial cost, not suitable for all tasks, need specialists, maintenance delays
 
 - Solution 3: Encourage citizens to give birth
 
-  - Pros: national self-sufficiency, sustainable
-  - Cons: long waiting time (18+ years), high government spending required, needs trustworthy policy
+- Pros: national self-sufficiency, sustainable
+- Cons: long waiting time (18+ years), high government spending required, needs trustworthy policy
 
 ---
 
@@ -727,13 +726,13 @@ Use examples like:
 
 - Government:
 
-  - Easier to control death rate (e.g. through vaccination, war restrictions)
-  - Difficult to control birth rate due to cultural/religious resistance
+- Easier to control death rate (e.g. through vaccination, war restrictions)
+- Difficult to control birth rate due to cultural/religious resistance
 
 - Religious sector:
 
-  - Believes death is God’s will, hard to control
-  - Easier to influence birth rate by aligning teachings with God's will (e.g. birth = merit)
+- Believes death is God’s will, hard to control
+- Easier to influence birth rate by aligning teachings with God's will (e.g. birth = merit)
 
 ---
 
@@ -781,13 +780,13 @@ Use examples like:
 
 - Government:
 
-  - Can regulate death rate more easily (policy-driven, people fear death)
-  - Cannot easily regulate birth rate due to culture, religion
+- Can regulate death rate more easily (policy-driven, people fear death)
+- Cannot easily regulate birth rate due to culture, religion
 
 - Religion:
 
-  - Believes death is in God’s hands, not controllable
-  - Can influence birth rate easily through divine teachings
+- Believes death is in God’s hands, not controllable
+- Can influence birth rate easily through divine teachings
 
 ---
 
@@ -851,10 +850,10 @@ Use examples like:
 
 - Focused on:
 
-  - Increased technology
-  - Decreased manpower
-  - Monoagriculture
-  - Export-oriented production
+- Increased technology
+- Decreased manpower
+- Monoagriculture
+- Export-oriented production
 
 ---
 
@@ -864,18 +863,18 @@ Use examples like:
 
 - China:
 
-  - Land redistributed after 1949
-  - Communes formed with shared labor, tools, and equal product distribution
-  - Emphasis on equality (one vote per member regardless of land size)
-  - Fast and democratic decision-making
+- Land redistributed after 1949
+- Communes formed with shared labor, tools, and equal product distribution
+- Emphasis on equality (one vote per member regardless of land size)
+- Fast and democratic decision-making
 
 - El Salvador:
 
-  - Commune introduced by Spanish colonizers
-  - Formed by rich landowners aiming for export (cash crops: coffee, tea, cocoa)
-  - Hierarchical and bureaucratic structure
-  - Poor farmers excluded, pushed to marginal lands
-  - Resulted in environmental degradation due to deforestation
+- Commune introduced by Spanish colonizers
+- Formed by rich landowners aiming for export (cash crops: coffee, tea, cocoa)
+- Hierarchical and bureaucratic structure
+- Poor farmers excluded, pushed to marginal lands
+- Resulted in environmental degradation due to deforestation
 
 ---
 
@@ -885,18 +884,18 @@ Use examples like:
 
 - Developed:
 
-  - Organized into departments (R&D, sales, marketing)
-  - Skilled labor, high technology use
-  - Standardized, high-quality products for global markets
-  - Budget for branding and marketing
-  - Comply with fair trade: legal labor, environmental care
+- Organized into departments (R&D, sales, marketing)
+- Skilled labor, high technology use
+- Standardized, high-quality products for global markets
+- Budget for branding and marketing
+- Comply with fair trade: legal labor, environmental care
 
 - Less Developed:
 
-  - Owner manages all aspects of production
-  - Mostly manpower-based, unskilled labor
-  - Non-standardized products for local markets
-  - Minimal marketing
-  - Often fail to meet fair trade criteria
+- Owner manages all aspects of production
+- Mostly manpower-based, unskilled labor
+- Non-standardized products for local markets
+- Minimal marketing
+- Often fail to meet fair trade criteria
 
 ---
