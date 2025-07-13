@@ -10,6 +10,7 @@ theme:
     - search.highlight
 nav:
   - Home: index.md
-  - Lecture Notes: lecture.md
-  - Exam Questions: questions.md
-
+  - Midterm lecture: midterm-lecture.md
+  - Midterm questions: midterm-questions.md
+  - Final lecture: final-lecture.md
+  - Final questions: final-questions.md
