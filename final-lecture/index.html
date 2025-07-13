@@ -1,0 +1,2375 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.14">
+    
+    
+      
+        <title>Final lecture - ICGS112 NOTES</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.342714a4.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#factory-location-decision-making" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="ICGS112 NOTES" class="md-header__button md-logo" aria-label="ICGS112 NOTES" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            ICGS112 NOTES
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Final lecture
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="ICGS112 NOTES" class="md-nav__button md-logo" aria-label="ICGS112 NOTES" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    ICGS112 NOTES
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../lecture.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Lecture Notes
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../questions.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Exam Questions
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#factory-location-decision-making" class="md-nav__link">
+    <span class="md-ellipsis">
+      Factory Location Decision-Making
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Factory Location Decision-Making">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#two-core-priorities" class="md-nav__link">
+    <span class="md-ellipsis">
+      Two Core Priorities
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#locational-decision-factors" class="md-nav__link">
+    <span class="md-ellipsis">
+      Locational Decision Factors
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Locational Decision Factors">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#labor-supply" class="md-nav__link">
+    <span class="md-ellipsis">
+      Labor Supply
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#availability-of-raw-materials" class="md-nav__link">
+    <span class="md-ellipsis">
+      Availability of Raw Materials
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cost-of-living" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cost of Living
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#weak-human-rights-protections" class="md-nav__link">
+    <span class="md-ellipsis">
+      Weak Human Rights Protections
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#types-of-labor" class="md-nav__link">
+    <span class="md-ellipsis">
+      Types of Labor
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Types of Labor">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#skilled-labor" class="md-nav__link">
+    <span class="md-ellipsis">
+      Skilled Labor
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#unskilled-labor" class="md-nav__link">
+    <span class="md-ellipsis">
+      Unskilled Labor
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#product-placement-and-labor-strategy" class="md-nav__link">
+    <span class="md-ellipsis">
+      Product Placement and Labor Strategy
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#new-locational-trend-post-1970" class="md-nav__link">
+    <span class="md-ellipsis">
+      New Locational Trend (Post-1970)
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="New Locational Trend (Post-1970)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#changes-in-developed-countries" class="md-nav__link">
+    <span class="md-ellipsis">
+      Changes in Developed Countries
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Changes in Developed Countries">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#labor-law-improvements" class="md-nav__link">
+    <span class="md-ellipsis">
+      Labor Law Improvements
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#environmental-law-improvements" class="md-nav__link">
+    <span class="md-ellipsis">
+      Environmental Law Improvements
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cost-of-living-and-wages" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cost of Living and Wages
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#trade-barriers" class="md-nav__link">
+    <span class="md-ellipsis">
+      Trade Barriers
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#advantages-of-less-developed-countries" class="md-nav__link">
+    <span class="md-ellipsis">
+      Advantages of Less Developed Countries
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Advantages of Less Developed Countries">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#labor-conditions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Labor Conditions
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#environmental-regulations" class="md-nav__link">
+    <span class="md-ellipsis">
+      Environmental Regulations
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cost-efficiency" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cost Efficiency
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#taxation-and-trade" class="md-nav__link">
+    <span class="md-ellipsis">
+      Taxation and Trade
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#resource-proximity" class="md-nav__link">
+    <span class="md-ellipsis">
+      Resource Proximity
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#shift-toward-fair-trade-post-2000" class="md-nav__link">
+    <span class="md-ellipsis">
+      Shift Toward Fair Trade (Post-2000)
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Shift Toward Fair Trade (Post-2000)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#new-strategy-marketing-over-relocation" class="md-nav__link">
+    <span class="md-ellipsis">
+      New Strategy: Marketing Over Relocation
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#multinational-corporations-mncs-and-raw-materials" class="md-nav__link">
+    <span class="md-ellipsis">
+      Multinational Corporations (MNCs) and Raw Materials
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#country-classification-industrial-vs-agricultural" class="md-nav__link">
+    <span class="md-ellipsis">
+      Country Classification: Industrial vs. Agricultural
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Country Classification: Industrial vs. Agricultural">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#criteria-for-industrial-vs-agricultural-country" class="md-nav__link">
+    <span class="md-ellipsis">
+      Criteria for Industrial vs. Agricultural Country
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Criteria for Industrial vs. Agricultural Country">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#example" class="md-nav__link">
+    <span class="md-ellipsis">
+      Example:
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#thailand-case" class="md-nav__link">
+    <span class="md-ellipsis">
+      Thailand Case:
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#trade-barriers_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Trade Barriers
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Trade Barriers">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#background" class="md-nav__link">
+    <span class="md-ellipsis">
+      Background
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#trade-barrier-strategies" class="md-nav__link">
+    <span class="md-ellipsis">
+      Trade Barrier Strategies
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#critique-of-worker-based-country-classification" class="md-nav__link">
+    <span class="md-ellipsis">
+      Critique of Worker-Based Country Classification
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Critique of Worker-Based Country Classification">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#why-counting-workers-is-misleading" class="md-nav__link">
+    <span class="md-ellipsis">
+      Why Counting Workers Is Misleading
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#economic-indicators-gnp-vs-gdp" class="md-nav__link">
+    <span class="md-ellipsis">
+      Economic Indicators: GNP vs. GDP
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Economic Indicators: GNP vs. GDP">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#gross-national-product-gnp" class="md-nav__link">
+    <span class="md-ellipsis">
+      Gross National Product (GNP)
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Gross National Product (GNP)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pros" class="md-nav__link">
+    <span class="md-ellipsis">
+      Pros:
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cons" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cons:
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#gross-domestic-product-gdp" class="md-nav__link">
+    <span class="md-ellipsis">
+      Gross Domestic Product (GDP)
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Gross Domestic Product (GDP)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#characteristics" class="md-nav__link">
+    <span class="md-ellipsis">
+      Characteristics:
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#issues" class="md-nav__link">
+    <span class="md-ellipsis">
+      Issues:
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tertiary-economic-activity" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tertiary Economic Activity
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#transmigration-in-indonesia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Transmigration in Indonesia
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Transmigration in Indonesia">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#background_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Background
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#goals-of-the-program" class="md-nav__link">
+    <span class="md-ellipsis">
+      Goals of the Program
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#implementation-strategy" class="md-nav__link">
+    <span class="md-ellipsis">
+      Implementation Strategy
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#issues-and-failures" class="md-nav__link">
+    <span class="md-ellipsis">
+      Issues and Failures
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Issues and Failures">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-land-conflict" class="md-nav__link">
+    <span class="md-ellipsis">
+      1. Land Conflict
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-religious-conflict" class="md-nav__link">
+    <span class="md-ellipsis">
+      2. Religious Conflict
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-lack-of-agricultural-skills" class="md-nav__link">
+    <span class="md-ellipsis">
+      3. Lack of Agricultural Skills
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-environmental-degradation" class="md-nav__link">
+    <span class="md-ellipsis">
+      4. Environmental Degradation
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#5-lack-of-infrastructure" class="md-nav__link">
+    <span class="md-ellipsis">
+      5. Lack of Infrastructure
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#long-term-outcome" class="md-nav__link">
+    <span class="md-ellipsis">
+      Long-Term Outcome
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#concept-optimum-population" class="md-nav__link">
+    <span class="md-ellipsis">
+      Concept: Optimum Population
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Concept: Optimum Population">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#definition" class="md-nav__link">
+    <span class="md-ellipsis">
+      Definition
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#scenarios" class="md-nav__link">
+    <span class="md-ellipsis">
+      Scenarios
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#overpopulation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Overpopulation
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Overpopulation">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#common-issues" class="md-nav__link">
+    <span class="md-ellipsis">
+      Common Issues
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#theories" class="md-nav__link">
+    <span class="md-ellipsis">
+      Theories
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Theories">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#malthusian-theory" class="md-nav__link">
+    <span class="md-ellipsis">
+      Malthusian Theory
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#boserups-theory" class="md-nav__link">
+    <span class="md-ellipsis">
+      Boserup’s Theory
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#underpopulation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Underpopulation
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Underpopulation">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#characteristics_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Characteristics
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#outcomes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Outcomes
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#club-of-rome-1972" class="md-nav__link">
+    <span class="md-ellipsis">
+      Club of Rome (1972)
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Club of Rome (1972)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#key-arguments" class="md-nav__link">
+    <span class="md-ellipsis">
+      Key Arguments
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#feminist-critique" class="md-nav__link">
+    <span class="md-ellipsis">
+      Feminist Critique
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#theory-pop-growth-industrial-decline-post-club-of-rome" class="md-nav__link">
+    <span class="md-ellipsis">
+      Theory: Pop Growth &amp; Industrial Decline (Post-Club of Rome)
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Theory: Pop Growth &amp; Industrial Decline (Post-Club of Rome)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#predictions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Predictions
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#introduction-to-urban-geography" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introduction to Urban Geography
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Introduction to Urban Geography">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#what-is-a-city" class="md-nav__link">
+    <span class="md-ellipsis">
+      What Is a City?
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#push-and-pull-factors-of-urbanization" class="md-nav__link">
+    <span class="md-ellipsis">
+      Push and Pull Factors of Urbanization
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Push and Pull Factors of Urbanization">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#push-factors-from-rural-areas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Push Factors (from rural areas)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pull-factors-to-cities" class="md-nav__link">
+    <span class="md-ellipsis">
+      Pull Factors (to cities)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#problems-of-rapid-urbanization" class="md-nav__link">
+    <span class="md-ellipsis">
+      Problems of Rapid Urbanization
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Problems of Rapid Urbanization">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#economic-problems" class="md-nav__link">
+    <span class="md-ellipsis">
+      Economic Problems
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#infrastructure-problems" class="md-nav__link">
+    <span class="md-ellipsis">
+      Infrastructure Problems
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#social-issues" class="md-nav__link">
+    <span class="md-ellipsis">
+      Social Issues
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#urban-land-use-patterns" class="md-nav__link">
+    <span class="md-ellipsis">
+      Urban Land Use Patterns
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Urban Land Use Patterns">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#central-business-district-cbd" class="md-nav__link">
+    <span class="md-ellipsis">
+      Central Business District (CBD)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#surrounding-zones" class="md-nav__link">
+    <span class="md-ellipsis">
+      Surrounding Zones
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#theories-of-urban-structure" class="md-nav__link">
+    <span class="md-ellipsis">
+      Theories of Urban Structure
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Theories of Urban Structure">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-concentric-zone-model-burgess" class="md-nav__link">
+    <span class="md-ellipsis">
+      1. Concentric Zone Model (Burgess)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-sector-model-hoyt" class="md-nav__link">
+    <span class="md-ellipsis">
+      2. Sector Model (Hoyt)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-multiple-nuclei-model" class="md-nav__link">
+    <span class="md-ellipsis">
+      3. Multiple Nuclei Model
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#case-study-bangkok" class="md-nav__link">
+    <span class="md-ellipsis">
+      Case Study: Bangkok
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#urban-planning" class="md-nav__link">
+    <span class="md-ellipsis">
+      Urban Planning
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Urban Planning">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#why-planning-matters" class="md-nav__link">
+    <span class="md-ellipsis">
+      Why Planning Matters
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#challenges-in-developing-countries" class="md-nav__link">
+    <span class="md-ellipsis">
+      Challenges in Developing Countries
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#solutions-and-innovations" class="md-nav__link">
+    <span class="md-ellipsis">
+      Solutions and Innovations
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Solutions and Innovations">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#smart-growth" class="md-nav__link">
+    <span class="md-ellipsis">
+      Smart Growth
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#satellite-cities" class="md-nav__link">
+    <span class="md-ellipsis">
+      Satellite Cities
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#slum-upgrading" class="md-nav__link">
+    <span class="md-ellipsis">
+      Slum Upgrading
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#culture-definitions-and-core-concepts" class="md-nav__link">
+    <span class="md-ellipsis">
+      Culture: Definitions and Core Concepts
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Culture: Definitions and Core Concepts">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#norms" class="md-nav__link">
+    <span class="md-ellipsis">
+      Norms
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#patriarchal-culture" class="md-nav__link">
+    <span class="md-ellipsis">
+      Patriarchal Culture
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tradition-custom-and-cultural-rights" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tradition, Custom, and Cultural Rights
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Tradition, Custom, and Cultural Rights">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tradition" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tradition
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#custom" class="md-nav__link">
+    <span class="md-ellipsis">
+      Custom
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cultural-rights" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cultural Rights
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cultural-identity-heritage" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cultural Identity &amp; Heritage
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Cultural Identity &amp; Heritage">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cultural-identity" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cultural Identity
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cultural-heritage" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cultural Heritage
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#three-cultural-components" class="md-nav__link">
+    <span class="md-ellipsis">
+      Three Cultural Components
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Three Cultural Components">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-artifacts" class="md-nav__link">
+    <span class="md-ellipsis">
+      1. Artifacts
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-sociofacts" class="md-nav__link">
+    <span class="md-ellipsis">
+      2. Sociofacts
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-mentifacts" class="md-nav__link">
+    <span class="md-ellipsis">
+      3. Mentifacts
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#interconnection-of-cultural-components" class="md-nav__link">
+    <span class="md-ellipsis">
+      Interconnection of Cultural Components
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#theories-of-culture-formation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Theories of Culture Formation
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Theories of Culture Formation">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-environmental-determinism" class="md-nav__link">
+    <span class="md-ellipsis">
+      1. Environmental Determinism
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-positivism" class="md-nav__link">
+    <span class="md-ellipsis">
+      2. Positivism
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-cultural-ecology" class="md-nav__link">
+    <span class="md-ellipsis">
+      3. Cultural Ecology
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+  <h1>Final lecture</h1>
+
+<h2 id="factory-location-decision-making">Factory Location Decision-Making</h2>
+<h3 id="two-core-priorities">Two Core Priorities</h3>
+<ul>
+<li><strong>Access to transportation</strong></li>
+<li>Necessary for receiving <strong>raw materials</strong> and delivering <strong>finished goods</strong>.</li>
+<li><strong>Access to energy sources</strong></li>
+<li>Supports <strong>productivity</strong> and <strong>efficiency</strong> (e.g., electricity, manpower, solar, wind).</li>
+</ul>
+<hr />
+<h3 id="locational-decision-factors">Locational Decision Factors</h3>
+<p>These are additional, non-essential considerations that help improve profitability and factory success.</p>
+<h4 id="labor-supply">Labor Supply</h4>
+<ul>
+<li>More available labor → lower wages.</li>
+<li>Areas with large labor pools are attractive due to lower production costs.</li>
+<li>Examples: China, India.</li>
+</ul>
+<h4 id="availability-of-raw-materials">Availability of Raw Materials</h4>
+<ul>
+<li>Factories near raw material sources can lower transport costs.</li>
+<li>Producers may offer lower prices due to convenience and competition.</li>
+<li>Example: A pineapple factory near pineapple farms saves transport costs.</li>
+</ul>
+<h4 id="cost-of-living">Cost of Living</h4>
+<ul>
+<li>Lower cost of living → cheaper utilities (electricity, water), insurance, and services.</li>
+<li>Reduces total production expenses.</li>
+<li>Developed countries have higher insurance and benefit costs.</li>
+</ul>
+<h4 id="weak-human-rights-protections">Weak Human Rights Protections</h4>
+<ul>
+<li>In areas with fewer worker rights:</li>
+<li>Longer work hours allowed</li>
+<li>Lower wages</li>
+<li>Fewer legal obligations for employers</li>
+<li>More cost-effective (but ethically questionable) business environment.</li>
+</ul>
+<hr />
+<h2 id="types-of-labor">Types of Labor</h2>
+<h3 id="skilled-labor">Skilled Labor</h3>
+<ul>
+<li>Found in cities or developed countries.</li>
+<li>Highly educated with specialized training.</li>
+<li>Required for complex products: weapons, aircraft, MRI machines.</li>
+</ul>
+<h3 id="unskilled-labor">Unskilled Labor</h3>
+<ul>
+<li>Found in rural or less developed regions.</li>
+<li>Manual work, minimal training.</li>
+<li>Used for mass production of basic goods: food, clothing.</li>
+</ul>
+<hr />
+<h2 id="product-placement-and-labor-strategy">Product Placement and Labor Strategy</h2>
+<table>
+<thead>
+<tr>
+<th>Product Type</th>
+<th>Labor Type</th>
+<th>Factory Location</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Daily/Cheap Goods</td>
+<td>Unskilled</td>
+<td>Close to consumers</td>
+<td>Save on transport; low-cost production</td>
+</tr>
+<tr>
+<td>Technological Goods</td>
+<td>Skilled</td>
+<td>Developed countries</td>
+<td>Accepted high price covers expenses</td>
+</tr>
+<tr>
+<td>Market Products</td>
+<td>= Cheap Products</td>
+<td>Same as above</td>
+<td>Low quality, labor-intensive</td>
+</tr>
+<tr>
+<td>Advanced Products</td>
+<td>= Tech Products</td>
+<td>Same as above</td>
+<td>High value, capital-intensive</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="new-locational-trend-post-1970">New Locational Trend (Post-1970)</h2>
+<h3 id="changes-in-developed-countries">Changes in Developed Countries</h3>
+<h4 id="labor-law-improvements">Labor Law Improvements</h4>
+<ul>
+<li>Labor unions influenced governments to:</li>
+<li>Mandate maternity leave</li>
+<li>Define working hours and overtime pay</li>
+<li>Require insurance and wellness provisions</li>
+<li>Increased employer responsibility and investment costs</li>
+</ul>
+<h4 id="environmental-law-improvements">Environmental Law Improvements</h4>
+<ul>
+<li>Regulated waste, air pollution, factory zoning</li>
+<li>Required wastewater treatment, air filtration</li>
+<li>Introduced carbon emission audits and CSR (corporate social responsibility) duties</li>
+<li>Example: Toyota pays for trees planted in developing countries</li>
+</ul>
+<h4 id="cost-of-living-and-wages">Cost of Living and Wages</h4>
+<ul>
+<li>Post-WWII, living costs and wages rose in developed countries</li>
+<li>Operating businesses became more expensive</li>
+</ul>
+<h4 id="trade-barriers">Trade Barriers</h4>
+<ul>
+<li>Increase in customs taxes and tariffs</li>
+<li>Rising gasoline costs impacted shipping and logistics</li>
+</ul>
+<hr />
+<h3 id="advantages-of-less-developed-countries">Advantages of Less Developed Countries</h3>
+<h4 id="labor-conditions">Labor Conditions</h4>
+<ul>
+<li>Weak or no unions</li>
+<li>Lack of labor protections</li>
+<li>No minimum wage laws in many cases</li>
+</ul>
+<h4 id="environmental-regulations">Environmental Regulations</h4>
+<ul>
+<li>Few or unenforced</li>
+<li>High corruption allows pollution in exchange for bribes</li>
+</ul>
+<h4 id="cost-efficiency">Cost Efficiency</h4>
+<ul>
+<li>Cheap labor and utilities</li>
+<li>Minimal compliance costs</li>
+</ul>
+<h4 id="taxation-and-trade">Taxation and Trade</h4>
+<ul>
+<li>Low or negotiable import/export taxes</li>
+<li>Corruption enables avoidance of official charges</li>
+</ul>
+<h4 id="resource-proximity">Resource Proximity</h4>
+<ul>
+<li>Many raw materials are sourced locally</li>
+<li>Reduces import dependence and costs</li>
+</ul>
+<hr />
+<h2 id="shift-toward-fair-trade-post-2000">Shift Toward Fair Trade (Post-2000)</h2>
+<ul>
+<li>Rise of <strong>fair trade</strong> movements emphasized ethical production</li>
+<li>Producers in less developed countries faced pressure to improve labor and environmental practices</li>
+<li>Some factories moved back to developed countries</li>
+</ul>
+<h3 id="new-strategy-marketing-over-relocation">New Strategy: Marketing Over Relocation</h3>
+<ul>
+<li>Companies used advertising to justify higher prices</li>
+<li>Enhanced product image through packaging, branding, and storytelling</li>
+<li>Consumers accepted increased prices for perceived quality or innovation</li>
+</ul>
+<p>Example:
+- Sunsilk shampoo once produced cheaply in Southeast Asia now costs more due to brand repositioning and marketing despite similar ingredients.</p>
+<hr />
+<h2 id="multinational-corporations-mncs-and-raw-materials">Multinational Corporations (MNCs) and Raw Materials</h2>
+<ul>
+<li>MNCs like Unilever are owned and operated by people from different countries (e.g., British, Swiss).</li>
+<li>These companies have <strong>large capital</strong> and often <strong>produce their own raw materials</strong>, reducing reliance on small or poor farmers in less developed countries.</li>
+<li>Before, small farmers sold raw materials to MNCs, but now MNCs:</li>
+<li>Rent land in less developed countries</li>
+<li>Hire local labor to produce materials under their control</li>
+<li>By producing their own raw materials, MNCs:</li>
+<li>Control quality and quantity of production</li>
+<li>Stabilize production cost</li>
+<li>Sell excess materials to other companies</li>
+<li>This reinforces inequality: <strong>rich corporations benefit</strong>, while <strong>small producers lose market access and income</strong></li>
+</ul>
+<hr />
+<h2 id="country-classification-industrial-vs-agricultural">Country Classification: Industrial vs. Agricultural</h2>
+<p>Countries are classified along different axes:
+1. Developed vs. Less Developed
+2. Rich vs. Poor → Based on <strong>GNP</strong>
+3. Industrial vs. Agricultural → Based on 4 criteria</p>
+<h3 id="criteria-for-industrial-vs-agricultural-country">Criteria for Industrial vs. Agricultural Country</h3>
+<ol>
+<li><strong>Amount of Productivity by Sector</strong></li>
+<li>
+<p>Compare total output from industrial and agricultural sectors.</p>
+</li>
+<li>
+<p><strong>Value of Productivity</strong></p>
+</li>
+<li>
+<p>Compare <strong>economic value</strong> of outputs (e.g., 100 tons of crops might be worth more than 500 tons of industrial goods).</p>
+</li>
+<li>
+<p><strong>Ownership of Investment</strong></p>
+</li>
+<li>If foreign investors produce most goods, wealth does <strong>not stay</strong> in the country.</li>
+<li>
+<p>Local production = better indicator of being an industrial/agricultural country.</p>
+</li>
+<li>
+<p><strong>Technology Ownership</strong></p>
+</li>
+<li>If the country uses its own technology → production and output <strong>belong to them</strong>.</li>
+<li>Foreign tech = dependence, even if production is high.</li>
+</ol>
+<blockquote>
+<p>You must analyze all 4 criteria to properly define a country’s industrial/agricultural status.</p>
+</blockquote>
+<h4 id="example">Example:</h4>
+<ul>
+<li>Country B:</li>
+<li>Produces 50 tons industrial, high value</li>
+<li>But production and tech are foreign-owned</li>
+<li>→ <strong>Not</strong> an industrial country despite high output</li>
+</ul>
+<h4 id="thailand-case">Thailand Case:</h4>
+<ul>
+<li>Equal share of local and foreign investors</li>
+<li>Still produces more agricultural than industrial goods</li>
+<li>Therefore, Thailand is <strong>semi-industrial and agricultural</strong></li>
+</ul>
+<hr />
+<h2 id="trade-barriers_1">Trade Barriers</h2>
+<h3 id="background">Background</h3>
+<ul>
+<li>Pre-1960s: Cheap products flowed freely across borders</li>
+<li>Hurt local industries in US, China, and others</li>
+<li>Created dependency on foreign imports</li>
+</ul>
+<h3 id="trade-barrier-strategies">Trade Barrier Strategies</h3>
+<ol>
+<li><strong>Increased Customs Tax</strong></li>
+<li>Raises cost of imports to protect local businesses</li>
+<li>
+<p>Example: Luxury goods like Chanel bags or Ferrari become expensive in Thailand due to 300–400% customs tax</p>
+</li>
+<li>
+<p><strong>Quota</strong></p>
+</li>
+<li>Limits quantity of foreign goods entering the country</li>
+<li>Example: If Nike can only send 2,000 pairs of shoes instead of 1 million, they must raise prices to keep profit</li>
+<li>→ Makes imported products less attractive, encourages local consumption</li>
+</ol>
+<blockquote>
+<p>Goal: Prevent economic dependency and <strong>leakage of money</strong> from the national economy</p>
+</blockquote>
+<hr />
+<h2 id="critique-of-worker-based-country-classification">Critique of Worker-Based Country Classification</h2>
+<p>Some geographers suggest classifying countries based on number of workers in each sector, but this is inaccurate.</p>
+<h3 id="why-counting-workers-is-misleading">Why Counting Workers Is Misleading</h3>
+<ol>
+<li><strong>Migrant Workers</strong></li>
+<li>Money sent home creates economic leakage</li>
+<li>
+<p>Hard to measure actual income retained in host country</p>
+</li>
+<li>
+<p><strong>Technology Replaces Labor</strong></p>
+</li>
+<li>Machines produce more with fewer workers</li>
+<li>
+<p>Example: 1 machine might output 10 tons/day vs. 1.5 tons/day by a human</p>
+</li>
+<li>
+<p><strong>Invisible Labor</strong></p>
+</li>
+<li>Illegal workers and child laborers are not counted officially</li>
+<li>Significant portion of workforce is hidden</li>
+<li>Machines are also a form of "hidden labor"</li>
+</ol>
+<blockquote>
+<p>Worker count <strong>alone</strong> does not reflect actual dependency on a sector</p>
+</blockquote>
+<hr />
+<h2 id="economic-indicators-gnp-vs-gdp">Economic Indicators: GNP vs. GDP</h2>
+<h3 id="gross-national-product-gnp">Gross National Product (GNP)</h3>
+<ul>
+<li>Total income <strong>earned by a country’s citizens</strong>, regardless of where they are in the world</li>
+<li>Includes income from:</li>
+<li>Thai investors/businesses abroad</li>
+<li>Migrant Thai workers overseas</li>
+</ul>
+<h4 id="pros">Pros:</h4>
+<ul>
+<li>Reflects how much nationals earn globally</li>
+</ul>
+<h4 id="cons">Cons:</h4>
+<ul>
+<li>In <strong>less developed countries</strong>, GNP is <strong>inaccurate</strong>:</li>
+<li>Many don’t report income or pay taxes</li>
+<li>Hidden/unregistered income not counted</li>
+<li>High GNP doesn’t mean wealth is equally distributed</li>
+<li>Example: Oil-rich countries (e.g., Middle East) have high GNP but large inequality</li>
+<li>Many live under $2/day</li>
+</ul>
+<blockquote>
+<p>GNP = Indicator of national income, <strong>not</strong> quality of life or development</p>
+</blockquote>
+<hr />
+<h3 id="gross-domestic-product-gdp">Gross Domestic Product (GDP)</h3>
+<ul>
+<li>Measures <strong>total value of production within the country</strong>, regardless of who owns it</li>
+</ul>
+<h4 id="characteristics">Characteristics:</h4>
+<ul>
+<li>Calculated from products <strong>made in national territory</strong></li>
+<li>Includes foreign-owned businesses</li>
+</ul>
+<h4 id="issues">Issues:</h4>
+<ul>
+<li>GDP increase ≠ public benefit</li>
+<li>Politicians use GDP growth to <strong>claim success</strong>, even if citizens aren’t thriving</li>
+<li>Much of GDP can come from <strong>foreign investment</strong>, profits may not stay in the country</li>
+<li>Migrant workers in-country also cause economic leakage</li>
+</ul>
+<blockquote>
+<p>GDP shows economic <strong>size</strong>, but not necessarily <strong>well-being</strong> or <strong>equality</strong></p>
+</blockquote>
+<hr />
+<h2 id="tertiary-economic-activity">Tertiary Economic Activity</h2>
+<ul>
+<li>Sector based on <strong>services and specialized skills</strong></li>
+<li>Examples:</li>
+<li>Accounting</li>
+<li>Medicine</li>
+<li>Legal services</li>
+<li>Labor-based services (even prostitution mentioned as a skill-for-hire)</li>
+</ul>
+<blockquote>
+<p>In this sector, people <strong>sell their knowledge or skills</strong> rather than goods</p>
+</blockquote>
+<hr />
+<h2 id="transmigration-in-indonesia">Transmigration in Indonesia</h2>
+<h3 id="background_1">Background</h3>
+<ul>
+<li>Java Island (capital: Jakarta) is overcrowded due to industrial development and job opportunities.</li>
+<li>Internal migration from other islands caused:</li>
+<li>High unemployment</li>
+<li>Slums</li>
+<li>Poor sanitation and health</li>
+<li>Government’s solution: <strong>Transmigration Project</strong></li>
+<li>Encourage people to move from Java to other "empty" islands.</li>
+</ul>
+<h3 id="goals-of-the-program">Goals of the Program</h3>
+<ul>
+<li>Reduce pressure on Java’s infrastructure and social services.</li>
+<li>Develop underused land and increase <strong>agricultural productivity</strong>.</li>
+<li>Improve economic output and national development.</li>
+</ul>
+<hr />
+<h3 id="implementation-strategy">Implementation Strategy</h3>
+<ul>
+<li>Volunteers were promised:</li>
+<li><strong>Land ownership</strong> on new islands.</li>
+<li><strong>Financial aid</strong> (~$3,000–$6,000/family).</li>
+<li>Indonesia took a <strong>loan from IMF</strong> to fund the project.</li>
+</ul>
+<hr />
+<h2 id="issues-and-failures">Issues and Failures</h2>
+<h3 id="1-land-conflict">1. Land Conflict</h3>
+<ul>
+<li>Many islands already inhabited by <strong>tribal groups</strong> who weren’t recognized by the government.</li>
+<li>Land ownership conflicts arose:</li>
+<li>Tribal people: ancestral claims</li>
+<li>Migrants: legal documents issued by the government</li>
+<li>Government failed to resolve this dispute.</li>
+</ul>
+<h3 id="2-religious-conflict">2. Religious Conflict</h3>
+<ul>
+<li>Newcomers: predominantly <strong>Muslim</strong></li>
+<li>Tribal people: mostly <strong>Christian</strong> or <strong>Animist</strong></li>
+<li>Resulted in <strong>religious violence</strong>, including:</li>
+<li>Attacks on mosques and churches</li>
+<li>Ongoing tensions and distrust</li>
+</ul>
+<h3 id="3-lack-of-agricultural-skills">3. Lack of Agricultural Skills</h3>
+<ul>
+<li>Migrants lacked knowledge and tools for farming.</li>
+<li>Poor productivity due to:</li>
+<li>No training</li>
+<li>No agricultural equipment</li>
+<li>Migrants attempted to increase output by <strong>expanding plantations</strong> (illegally).</li>
+</ul>
+<h3 id="4-environmental-degradation">4. Environmental Degradation</h3>
+<ul>
+<li>Expansion led to:</li>
+<li><strong>Deforestation</strong></li>
+<li><strong>Soil erosion</strong></li>
+<li><strong>Landslides</strong></li>
+<li>Disruption of <strong>local ecosystems</strong></li>
+</ul>
+<h3 id="5-lack-of-infrastructure">5. Lack of Infrastructure</h3>
+<ul>
+<li>No roads, electricity, water systems on the new islands.</li>
+<li>Migrants had to spend money on basic infrastructure.</li>
+<li>This limited their ability to invest in farming or build homes.</li>
+</ul>
+<hr />
+<h3 id="long-term-outcome">Long-Term Outcome</h3>
+<ul>
+<li>Many migrants <strong>gave up</strong> and returned to Java Island.</li>
+<li>Social issues in Java <strong>returned</strong>, now <strong>with added IMF debt</strong>.</li>
+<li>Failure attributed to:</li>
+<li>Poor planning</li>
+<li>No pre-built infrastructure</li>
+<li>Ignoring local communities</li>
+<li>Cultural and environmental neglect</li>
+</ul>
+<hr />
+<h2 id="concept-optimum-population">Concept: Optimum Population</h2>
+<h3 id="definition">Definition</h3>
+<ul>
+<li>Ideal balance between population size and available resources in an area.</li>
+</ul>
+<h3 id="scenarios">Scenarios</h3>
+<ul>
+<li><strong>Overpopulation</strong>: too many people for the available resources.</li>
+<li><strong>Underpopulation</strong>: too few people to fully utilize available resources.</li>
+</ul>
+<hr />
+<h2 id="overpopulation">Overpopulation</h2>
+<h3 id="common-issues">Common Issues</h3>
+<ul>
+<li>Unemployment</li>
+<li>Poverty</li>
+<li>Resource scarcity</li>
+<li>Decline in living standards</li>
+</ul>
+<h3 id="theories">Theories</h3>
+<h4 id="malthusian-theory">Malthusian Theory</h4>
+<ul>
+<li>Population grows faster than food production.</li>
+<li>Result: famine, disease, death → population decline</li>
+<li>Solution: <strong>do nothing</strong>, nature will balance it.</li>
+</ul>
+<blockquote>
+<p>Criticism: ignores role of <strong>technology</strong> in increasing productivity.</p>
+</blockquote>
+<h4 id="boserups-theory">Boserup’s Theory</h4>
+<ul>
+<li>Population growth pushes <strong>agriculture to improve</strong>.</li>
+<li>Farmers feel pressured to produce more.</li>
+<li>Stimulates <strong>technological advancement</strong>.</li>
+</ul>
+<blockquote>
+<p>Criticism: assumes people <strong>cannot migrate</strong>, only applies to isolated communities.</p>
+</blockquote>
+<hr />
+<h2 id="underpopulation">Underpopulation</h2>
+<h3 id="characteristics_1">Characteristics</h3>
+<ul>
+<li>More resources than people</li>
+<li>Often occurs in <strong>resource-rich</strong> but <strong>sparsely populated</strong> countries</li>
+</ul>
+<h3 id="outcomes">Outcomes</h3>
+<ul>
+<li>Attracts:</li>
+<li><strong>Investors</strong> (to exploit unused resources)</li>
+<li><strong>Skilled labor</strong> (to work for investors)</li>
+<li>Leads to:</li>
+<li>Increased population</li>
+<li>Growth in GDP/GNP</li>
+<li>External dependency if locals lack control</li>
+</ul>
+<hr />
+<h2 id="club-of-rome-1972">Club of Rome (1972)</h2>
+<ul>
+<li>International conference on population, environment, and sustainability.</li>
+<li>Participants: mostly Europeans from science, politics, and economics.</li>
+</ul>
+<h3 id="key-arguments">Key Arguments</h3>
+<ul>
+<li>World is consuming <strong>resources too fast</strong></li>
+<li>Suggested global <strong>birth control policies</strong> to manage population</li>
+</ul>
+<blockquote>
+<p>Hypocrisy: Europeans pushed control policies on <strong>less developed countries</strong>, but refused to apply it to themselves due to religious reasons (Christianity).</p>
+</blockquote>
+<hr />
+<h3 id="feminist-critique">Feminist Critique</h3>
+<ul>
+<li>Western feminists promoted <strong>birth control</strong> to reduce domestic burden and improve women's freedom.</li>
+<li>Suggested:</li>
+<li>Fewer children → less work → more time for self-development</li>
+<li>Criticized by women in less developed countries who:</li>
+<li>Relied on religion/culture for identity and survival</li>
+<li>Found Western feminism to be out-of-touch and condescending</li>
+</ul>
+<hr />
+<h2 id="theory-pop-growth-industrial-decline-post-club-of-rome">Theory: Pop Growth &amp; Industrial Decline (Post-Club of Rome)</h2>
+<h3 id="predictions">Predictions</h3>
+<ul>
+<li>Population decline → fewer consumers</li>
+<li>Industry will shrink → mass unemployment</li>
+<li>Companies will:</li>
+<li>Use <strong>more technology</strong>, fewer workers</li>
+<li>Stop innovating (no demand = no need to improve)</li>
+</ul>
+<blockquote>
+<p>Criticism: Technological development may continue due to <strong>human desire</strong>, not just economic necessity</p>
+</blockquote>
+<hr />
+<h2 id="introduction-to-urban-geography">Introduction to Urban Geography</h2>
+<h3 id="what-is-a-city">What Is a City?</h3>
+<ul>
+<li>A city is defined as a <strong>permanent human settlement</strong> with:</li>
+<li>High population density</li>
+<li>Complex infrastructure</li>
+<li>Diverse activities (economic, political, cultural)</li>
+<li>Differentiated from rural areas by:</li>
+<li>Economic diversity (not limited to agriculture)</li>
+<li>Administrative functions</li>
+<li>Technological infrastructure</li>
+<li>Cultural significance</li>
+</ul>
+<hr />
+<h2 id="push-and-pull-factors-of-urbanization">Push and Pull Factors of Urbanization</h2>
+<h3 id="push-factors-from-rural-areas">Push Factors (from rural areas)</h3>
+<ul>
+<li>Lack of education</li>
+<li>Lack of employment</li>
+<li>Poor infrastructure and services</li>
+<li>Land scarcity or poor farming conditions</li>
+</ul>
+<h3 id="pull-factors-to-cities">Pull Factors (to cities)</h3>
+<ul>
+<li>Job opportunities (especially in industrial and service sectors)</li>
+<li>Better education</li>
+<li>Healthcare access</li>
+<li>Lifestyle attractions</li>
+</ul>
+<hr />
+<h2 id="problems-of-rapid-urbanization">Problems of Rapid Urbanization</h2>
+<h3 id="economic-problems">Economic Problems</h3>
+<ul>
+<li>High cost of living</li>
+<li>Inequality and poverty in urban slums</li>
+<li>Informal labor market (unstable employment)</li>
+</ul>
+<h3 id="infrastructure-problems">Infrastructure Problems</h3>
+<ul>
+<li>Traffic congestion</li>
+<li>Pollution (air, water, noise)</li>
+<li>Waste management issues</li>
+<li>Housing shortages</li>
+</ul>
+<h3 id="social-issues">Social Issues</h3>
+<ul>
+<li>Overcrowding</li>
+<li>Crime and insecurity</li>
+<li>Lack of public spaces</li>
+</ul>
+<blockquote>
+<p>Poor urban planning leads to <strong>chaotic development</strong>, making these problems worse.</p>
+</blockquote>
+<hr />
+<h2 id="urban-land-use-patterns">Urban Land Use Patterns</h2>
+<h3 id="central-business-district-cbd">Central Business District (CBD)</h3>
+<ul>
+<li>Commercial and financial center of the city</li>
+<li>High land value</li>
+<li>Tall buildings, offices, department stores</li>
+<li>Accessible via public transport</li>
+</ul>
+<h3 id="surrounding-zones">Surrounding Zones</h3>
+<ol>
+<li><strong>Transitional Zone</strong></li>
+<li>Mix of residential and industrial use</li>
+<li>
+<p>Often includes slums and older housing</p>
+</li>
+<li>
+<p><strong>Residential Zone</strong></p>
+</li>
+<li>Middle and upper-class housing</li>
+<li>
+<p>Schools, hospitals, amenities</p>
+</li>
+<li>
+<p><strong>Industrial Zone</strong></p>
+</li>
+<li>Factories, warehouses</li>
+<li>
+<p>Often located near railways, highways, or rivers</p>
+</li>
+<li>
+<p><strong>Suburbs</strong></p>
+</li>
+<li>Low-density housing</li>
+<li>Commuter areas</li>
+<li>More space, better living conditions</li>
+</ol>
+<blockquote>
+<p>These zones are not fixed; urban sprawl and gentrification change them over time.</p>
+</blockquote>
+<hr />
+<h2 id="theories-of-urban-structure">Theories of Urban Structure</h2>
+<h3 id="1-concentric-zone-model-burgess">1. Concentric Zone Model (Burgess)</h3>
+<ul>
+<li>City develops in circular rings:</li>
+<li>Center: CBD</li>
+<li>Surrounding rings: transition → working-class → middle-class → suburbs</li>
+<li>Based on American industrial cities</li>
+</ul>
+<h3 id="2-sector-model-hoyt">2. Sector Model (Hoyt)</h3>
+<ul>
+<li>Development extends outward in <strong>sectors</strong> or wedges, not rings.</li>
+<li>Focuses on transportation corridors.</li>
+<li>High-income areas form along highways or waterfronts.</li>
+</ul>
+<h3 id="3-multiple-nuclei-model">3. Multiple Nuclei Model</h3>
+<ul>
+<li>City has <strong>multiple centers</strong> (nuclei) of activity</li>
+<li>Each nucleus specializes in a specific function (e.g., university, shopping, industry)</li>
+<li>Reflects decentralization and complexity of modern cities</li>
+</ul>
+<blockquote>
+<p>All models help explain different cities, but no single one fits all urban areas.</p>
+</blockquote>
+<hr />
+<h2 id="case-study-bangkok">Case Study: Bangkok</h2>
+<ul>
+<li>Developed in a <strong>linear pattern</strong> along roads and railways.</li>
+<li>Lacks a strict central plan → irregular layout</li>
+<li>Mix of all urban models:</li>
+<li>Concentric core (Rattanakosin)</li>
+<li>Sector-like expansion along Sukhumvit and Silom</li>
+<li>Nuclei (e.g., Ladprao, Rangsit, Bangna)</li>
+</ul>
+<blockquote>
+<p>Bangkok's sprawl and informal development cause major traffic and housing issues.</p>
+</blockquote>
+<hr />
+<h2 id="urban-planning">Urban Planning</h2>
+<h3 id="why-planning-matters">Why Planning Matters</h3>
+<ul>
+<li>Ensures efficient land use</li>
+<li>Reduces congestion and pollution</li>
+<li>Provides housing and public services</li>
+<li>Prevents slum formation</li>
+</ul>
+<h3 id="challenges-in-developing-countries">Challenges in Developing Countries</h3>
+<ul>
+<li>Lack of funding</li>
+<li>Weak governance and corruption</li>
+<li>Rapid population growth</li>
+<li>Land tenure issues (ownership disputes)</li>
+</ul>
+<hr />
+<h2 id="solutions-and-innovations">Solutions and Innovations</h2>
+<h3 id="smart-growth">Smart Growth</h3>
+<ul>
+<li>Urban development strategy that focuses on:</li>
+<li>Public transport</li>
+<li>Mixed-use neighborhoods</li>
+<li>Preservation of green space</li>
+</ul>
+<h3 id="satellite-cities">Satellite Cities</h3>
+<ul>
+<li>Smaller cities built around a major city to absorb population pressure</li>
+<li>Planned with their own infrastructure and services</li>
+</ul>
+<h3 id="slum-upgrading">Slum Upgrading</h3>
+<ul>
+<li>Improve conditions in informal settlements:</li>
+<li>Provide utilities (water, electricity)</li>
+<li>Improve roads and sanitation</li>
+<li>Legalize land ownership</li>
+</ul>
+<hr />
+<h2 id="culture-definitions-and-core-concepts">Culture: Definitions and Core Concepts</h2>
+<h3 id="norms">Norms</h3>
+<ul>
+<li><strong>Definition</strong>: Commonly accepted standards or rules within a society that dictate acceptable behavior.</li>
+<li><strong>Transmission</strong>: Taught from birth—initially by parents, then reinforced by the community.</li>
+<li><strong>Relation to Law</strong>:</li>
+<li>Laws are often formed from widely accepted norms.</li>
+<li>Example: In Islamic societies, harsh punishments like hand-cutting for theft originate from cultural norms.</li>
+<li><strong>Punishment</strong>:</li>
+<li>Legal punishments (e.g., imprisonment, fines).</li>
+<li>Extra-legal or cultural punishments (e.g., gossip, ostracism, honor killings).</li>
+<li>Some cultural punishments violate human rights (e.g., burning for adultery) but are justified by claims to "cultural rights".</li>
+</ul>
+<h3 id="patriarchal-culture">Patriarchal Culture</h3>
+<ul>
+<li>Most current norms originate from male-dominated societies.</li>
+<li>Functions of norms:</li>
+<li>Control behavior</li>
+<li>Maintain peace/security</li>
+<li>Support power structures</li>
+</ul>
+<hr />
+<h2 id="tradition-custom-and-cultural-rights">Tradition, Custom, and Cultural Rights</h2>
+<h3 id="tradition">Tradition</h3>
+<ul>
+<li><strong>Definition</strong>: Symbolic beliefs and practices passed down through generations.</li>
+<li><strong>Purpose</strong>: Maintains the continuity and strength of culture.</li>
+<li><strong>Example</strong>: Wai gesture in Thailand reflects respect; Loi Krathong reflects gratitude to the water goddess.</li>
+</ul>
+<h3 id="custom">Custom</h3>
+<ul>
+<li><strong>Definition</strong>: Repeated behaviors done without questioning the reason.</li>
+<li><strong>Characteristics</strong>: Least important; should be revised frequently.</li>
+<li><strong>Example</strong>: Taking food photos before eating because others do.</li>
+</ul>
+<h3 id="cultural-rights">Cultural Rights</h3>
+<ul>
+<li><strong>Government Perspective</strong>:</li>
+<li>Everyone should have equal access to enjoy and participate in cultural practices.</li>
+<li>Duties: create laws, host events, protect participants.</li>
+<li><strong>Community Perspective</strong>:</li>
+<li>Cultural rights = right to <strong>preserve</strong> culture and <strong>resist change</strong>.</li>
+<li>Maintain uniqueness and prevent external disturbance.</li>
+<li><strong>Conflict</strong>:</li>
+<li>Some practices violate national laws/human rights (e.g., rape culture used to justify acts).</li>
+<li>Requires compromise between state, people, and human rights law.</li>
+</ul>
+<hr />
+<h2 id="cultural-identity-heritage">Cultural Identity &amp; Heritage</h2>
+<h3 id="cultural-identity">Cultural Identity</h3>
+<ul>
+<li>Made up of:</li>
+<li>Unique beliefs and practices</li>
+<li>Tangible heritage (architecture, land, statues)</li>
+</ul>
+<h3 id="cultural-heritage">Cultural Heritage</h3>
+<ul>
+<li>Physical/tangible elements of culture.</li>
+<li>Includes buildings, landscapes, and monuments.</li>
+</ul>
+<hr />
+<h2 id="three-cultural-components">Three Cultural Components</h2>
+<h3 id="1-artifacts">1. Artifacts</h3>
+<ul>
+<li><strong>Definition</strong>: Tangible and intangible items that reflect a culture.</li>
+<li><strong>Examples</strong>: Food, language, stories, dance.</li>
+<li><strong>Features</strong>:</li>
+<li>Most visible and accessible part of culture.</li>
+<li>Can easily change (e.g., evolution of Thai papaya salad "som tam").</li>
+<li>Used to protect the core of culture (mentifacts).</li>
+</ul>
+<h3 id="2-sociofacts">2. Sociofacts</h3>
+<ul>
+<li><strong>Definition</strong>: Social structures and institutions that govern behavior.</li>
+<li><strong>Examples</strong>:</li>
+<li>Family (smallest unit, with roles/duties)</li>
+<li>Government (protect rights, maintain order)</li>
+<li>Education (ensure access to learning)</li>
+<li>Healthcare (access to medical treatment)</li>
+<li>Religion (spiritual/moral support)</li>
+<li><strong>Change</strong>: Requires effort, planning, and possibly protest or revolution.</li>
+</ul>
+<h3 id="3-mentifacts">3. Mentifacts</h3>
+<ul>
+<li><strong>Definition</strong>: Abstract beliefs, values, ideologies, and perceptions.</li>
+<li><strong>Transmission</strong>: Oral traditions, generational teaching.</li>
+<li><strong>Resistance to Change</strong>:</li>
+<li>Hardest part of culture to change.</li>
+<li>Requires time, education, and evidence.</li>
+<li>Example: Beliefs about natural phenomena like earthquakes once explained by myth.</li>
+</ul>
+<hr />
+<h2 id="interconnection-of-cultural-components">Interconnection of Cultural Components</h2>
+<ul>
+<li><strong>Artifacts</strong> can reveal:</li>
+<li><strong>Sociofacts</strong>: Through spatial arrangement, usage (e.g., house layout reveals family structure).</li>
+<li><strong>Mentifacts</strong>: Through decoration, architecture (e.g., Buddha statues reveal religious beliefs).</li>
+</ul>
+<hr />
+<h2 id="theories-of-culture-formation">Theories of Culture Formation</h2>
+<h3 id="1-environmental-determinism">1. Environmental Determinism</h3>
+<ul>
+<li><strong>Belief</strong>: Culture is entirely shaped by nature.</li>
+<li><strong>Implications</strong>:</li>
+<li>Denies human free will.</li>
+<li>Encourages blaming nature for personal actions (e.g., "I hit someone because it was hot").</li>
+<li><strong>Religion</strong>: Aligns with Christianity’s concept of predestination (God has already determined everything).</li>
+<li><strong>Downside</strong>: May encourage irresponsibility.</li>
+</ul>
+<h3 id="2-positivism">2. Positivism</h3>
+<ul>
+<li><strong>Belief</strong>: Culture comes from human knowledge, history, experience, science, and technology.</li>
+<li><strong>Benefits</strong>:</li>
+<li>Promotes logic, reason, and adaptation.</li>
+<li>Culture evolves with society.</li>
+<li>Fact-based and practical.</li>
+<li><strong>Downside</strong>: No room for hope or spirituality—can feel emotionally empty.</li>
+</ul>
+<h3 id="3-cultural-ecology">3. Cultural Ecology</h3>
+<ul>
+<li><strong>Belief</strong>: Culture arises from a balance of nature and human knowledge.</li>
+<li><strong>Purpose</strong>: Create a neutral, balanced culture combining fact and spirituality.</li>
+<li><strong>Outcome</strong>: More inclusive and sustainable culture.</li>
+</ul>
+<hr />
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "..", "features": ["navigation.instant", "navigation.sections", "search.suggest", "search.highlight"], "search": "../assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.13a4f30d.min.js"></script>
+      
+    
+  </body>
+</html>
