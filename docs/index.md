@@ -10,8 +10,11 @@ It includes content primarily for the **midterm**, and will later be expanded to
 
 ## Notes
 
-- [Lecture Notes](lecture/)
-- [Exam Questions](questions/)
+- [Midterm-Lecture Notes](midterm-lecture/)
+- [Midterm-Exam Questions](midterm-questions/)
+- [Final-Lecture Notes](final-lecture/)
+- [Final-Exam Questions](final-questions/)
+
 
 ---
 
@@ -19,5 +22,5 @@ It includes content primarily for the **midterm**, and will later be expanded to
 
 [GitHub Repository](https://github.com/jiraroj-wir/MUIC-ICGS112-Geography-of-Human-Activities)
 
-_Last updated: **June 10, 2025**_
+_Last updated: **July 13, 2025**_
 
