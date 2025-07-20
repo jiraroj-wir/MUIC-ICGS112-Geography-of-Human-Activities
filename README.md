@@ -1,8 +1,4 @@
 # 📚 MUIC ICGS112 - Geography of Human Activities  
-![status](https://img.shields.io/badge/status-archived-orange)  
-![license](https://img.shields.io/badge/license-MIT-green)
-
----
 
 ## 🌍 About This Repo  
 I took **ICGS112: Geography of Human Activities** in **Trimester 3, Academic Year 2024** at MUIC.  
