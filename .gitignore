@@ -172,3 +172,4 @@ $RECYCLE.BIN/
 
 # Local files
 local_settings.py
+site/
