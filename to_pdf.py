@@ -2,11 +2,14 @@ import os
 import markdown
 from weasyprint import HTML, CSS
 
-# paths
-docs = "docs"
-files = ["lecture.md", "questions.md"]
+# Paths
+DOCS_DIR = "docs"
+OUTPUT_DIR = "pdf"
 
-# dark theme CSS
+# Ensure output directory exists
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+# Dark theme CSS
 DARK_CSS = """
 @page { size: A4; margin: 0; background: #111; }
 body {
@@ -25,19 +28,26 @@ pre, code {
 }
 """
 
-for filename in files:
-    src_path = os.path.join(docs, filename)
-    base = os.path.splitext(filename)[0]
-    with open(src_path, encoding="utf-8") as f:
-        md = f.read()
-    html = markdown.markdown(md, extensions=["extra", "codehilite", "tables", "toc"])
+# Process all Markdown files in docs/
+for filename in os.listdir(DOCS_DIR):
+    if filename.endswith(".md"):
+        src_path = os.path.join(DOCS_DIR, filename)
+        base = os.path.splitext(filename)[0]
 
-    # light theme PDF
-    HTML(string=html).write_pdf(os.path.join(docs, f"{base}.pdf"))
-    print(f"Generated {base}.pdf")
+        with open(src_path, encoding="utf-8") as f:
+            md = f.read()
 
-    # dark theme PDF
-    HTML(string=html).write_pdf(
-        os.path.join(docs, f"{base}-dark.pdf"), stylesheets=[CSS(string=DARK_CSS)]
-    )
-    print(f"Generated {base}-dark.pdf")
+        # Convert Markdown to HTML
+        html = markdown.markdown(
+            md, extensions=["extra", "codehilite", "tables", "toc"]
+        )
+
+        # Light theme PDF
+        light_pdf_path = os.path.join(OUTPUT_DIR, f"{base}.pdf")
+        HTML(string=html).write_pdf(light_pdf_path)
+        print(f"Generated {light_pdf_path}")
+
+        # Dark theme PDF
+        dark_pdf_path = os.path.join(OUTPUT_DIR, f"{base}-dark.pdf")
+        HTML(string=html).write_pdf(dark_pdf_path, stylesheets=[CSS(string=DARK_CSS)])
+        print(f"Generated {dark_pdf_path}")

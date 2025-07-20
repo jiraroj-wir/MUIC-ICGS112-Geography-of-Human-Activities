@@ -1,4 +1,4 @@
-site_name: ICGS112 NOTES
+site_name: ICGS112 Notes
 theme:
   name: material
   palette:
@@ -8,9 +8,13 @@ theme:
     - navigation.sections
     - search.suggest
     - search.highlight
+
 nav:
   - Home: index.md
-  - Midterm lecture: midterm-lecture.md
-  - Midterm questions: midterm-questions.md
-  - Final lecture: final-lecture.md
-  - Final questions: final-questions.md
+  - Midterm:
+      - Lecture Notes: midterm-lecture.md
+      - Questions: midterm-questions.md
+  - Final:
+      - Lecture Notes: final-lecture.md
+      - Questions: final-questions.md
+
